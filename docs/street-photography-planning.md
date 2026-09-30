@@ -1,7 +1,7 @@
 # Street photography site — planning handoff
 
-**Status:** Product direction agreed. Screens/schema not fully locked. **No application code yet.**  
-**Date:** 2026-09-25  
+**Status:** Product direction and technical defaults locked. Next work is written schema notes, an auth matrix, and six request flows — then the migration. **No application code yet.**  
+**Date:** 2026-09-30  
 **Repo:** `poc-test` (greenfield)
 
 Use this file to continue on another device. Cursor plan files under `.cursor/` may not travel with git.
@@ -27,7 +27,13 @@ A fullstack portfolio project you will actually use, hosted **free or cheap**. S
 | Location source | **Manual:** click the map (or type a place name). EXIF GPS optional later, never required |
 | Privacy rule | Pin **neighborhood/city**, not a doorway. Pin = where you worked, not a subject’s address |
 | Hosting | Stay on free/cheap tiers; never store camera originals / RAW in v1 |
-| Images | Client-side resize to WebP, max edge ~1600px, then object storage |
+| Images | Client-side resize to WebP, max edge ~1600px, then a **private** bucket. Public pages only get URLs for photos on published collections |
+| Stack | Next.js (App Router) + TypeScript, Supabase Postgres/Auth/Storage, Vercel Hobby. Cloudflare is a later option, not v1 |
+| API | Route Handlers under `app/api/...` plus a domain module. UI calls HTTP |
+| Admin | One email in `ADMIN_EMAIL`. No roles table |
+| Public URLs | Unique `slug` on collections; gallery pages at `/collections/[slug]` |
+| Gallery v1 | Contact sheet in `sort_order` |
+| Map filters | After the map lists every published collection |
 
 ---
 
@@ -145,17 +151,6 @@ If you want a stronger “edge/infra” story later: same UI on Cloudflare Pages
 
 ---
 
-## Implementation order (when coding starts)
-
-1. Schema + admin auth + create/edit collection **without** photos.
-2. Photo upload pipeline + admin gallery + public collection page.
-3. Public map (published collections only).
-4. Publish flag polish, year/city filters, empty/error states, CI, README + live URL.
-
-**Not started.** Do not skip to a map demo before auth and `published` exist, or drafts will leak.
-
----
-
 ## Skills this should prove
 
 Auth and authorization (admin vs public), relational modeling, file uploads, RLS or equivalent, maps, filtering, pagination, empty/error states, tests on domain logic, CI, README with architecture and demo URL.
@@ -171,19 +166,119 @@ Auth and authorization (admin vs public), relational modeling, file uploads, RLS
 
 ---
 
-## Open points (resolve before or during first implementation)
+## Decide before coding
 
-- Exact UI for admin vs public (wireframes not done).
-- Confirm Next.js + Supabase vs Cloudflare-first.
-- Whether year/city filters are in the first public map or immediately after.
+Locked on 2026-09-30. You do **not** need wireframes or a site name before the first migration.
 
-Per-photo map pins: **not MVP**; add only after collection pins work.
+| Topic | Locked choice | Why |
+| --- | --- | --- |
+| Stack | Next.js (App Router) + Supabase Postgres/Auth/Storage on Vercel Hobby | Real SQL, migrations, and row-level security. Cloudflare Workers + D1 is a later rewrite, not v1. |
+| API shape | Route Handlers (`app/api/...`) plus a small domain module. UI calls HTTP. | One request path: auth → rules → SQL → status code. |
+| Who is admin | One email in `ADMIN_EMAIL`. Session email must match. No roles table. | Single-author CMS. |
+| Public URLs | `slug` on `collections`, unique. Gallery page is `/collections/[slug]`. | Plural resource name, same noun as the API `GET /api/collections/:slug`. |
+| Image bytes | Browser resizes to WebP, then uploads to a **private** bucket. Public pages only receive URLs for photos whose collection is published. | Publish rule applies to files, not only rows. |
+| Gallery | Contact sheet in `sort_order` | Matches street sequences; no schema change. |
+| Map filters | After the map lists every published collection | Query on columns you already store. |
+| Visual design | `/` map + list, `/collections/[slug]` gallery, `/admin` forms. Plain layout. | Layout is not the architecture. |
+| Per-photo pins | Out of MVP | Already decided. |
+
+**Still open, does not block the migration:** site title.
 
 ---
 
-## How to continue on another device
+## Architecture practice (do this while building)
 
-1. Clone this repo; this file is the source of truth.
-2. Commit this doc if it is not on the remote yet.
-3. Next session: lock screens (admin form, map, gallery) then scaffold. Do not invent social features.
-4. Prompt starter: *“Read `docs/street-photography-planning.md` and continue: lock schema and scaffold Next.js + Supabase admin + public map per the MVP.”*
+Goal: leave the repo with a schema you can defend, and request flows you can draw. Not a second framework.
+
+Work in this order. Each step has a written artifact in `docs/` before the matching code.
+
+### 1. Schema with invariants (database design)
+
+Expand the draft tables before writing UI. Write one SQL migration by hand.
+
+Add:
+
+- `collections.slug` text unique not null
+- `photos.sort_order` int not null, unique `(collection_id, sort_order)`
+- `cover_photo_id` nullable, FK to `photos`. Create the collection first, insert photos, then set the cover. `ON DELETE SET NULL` so deleting the cover photo does not delete the collection.
+- Check: if `published` then `lat` and `lng` are not null. Publishing without a pin is a data bug, not a UI nicety.
+- Index for the public list: `(published, shot_on desc)` or partial index `where published`.
+
+**Judgment to write down (short note in the migration comment or `docs/schema-notes.md`):**
+
+- “At least one photo before publish” stays in the **domain layer**, not a SQL trigger. Triggers are harder to test and you only have one writer.
+- Numeric `lat`/`lng` is enough for hundreds of neighborhood pins. PostGIS is for radius/polygon queries you do not have.
+- Do not store `city` as a separate table until you have many collections per city and you need shared city metadata. A text column is the right normalization for v1.
+
+Practice: draw the ERD, then try to break it (delete cover photo, two photos with the same sort order, publish with null coordinates). The constraints should reject those.
+
+### 2. Authorization matrix (before RLS policies)
+
+Write a table and implement it twice: in Postgres RLS and in the route handler. They must match.
+
+| Actor | Draft collection | Published collection | Photo bytes |
+| --- | --- | --- | --- |
+| Anonymous | no read, no write | read row + photos | read only if parent collection is published |
+| Admin session | read/write | read/write | write; read drafts |
+
+Rules:
+
+- Browser uses the anon key (public pages) or the user JWT (admin). Never put the Supabase **service role** key in client code.
+- Public photo reads go through a policy of the form “photo visible if its collection is published”, not a public bucket that also holds drafts.
+
+### 3. Backend flows (write these before the handlers)
+
+One short sequence per use case. For each: who calls it, preconditions, DB writes, storage writes, success status, failure status.
+
+1. **Create draft** — `POST /api/collections`. Auth. Insert row, `published = false`, slug from title + date. `201` with id and slug. `401` if not admin. `409` if slug collides (retry with a suffix in the domain function).
+2. **Upload photo** — three steps, because bytes and rows are different systems:
+   - `POST /api/collections/:id/photos` creates a pending row and a storage path (admin only, collection must exist).
+   - Client `PUT`s the WebP to that path.
+   - `POST .../photos/:id/complete` checks the object exists, sets width/height, assigns `sort_order`.
+   - If the byte upload never completes, a cleanup path deletes stale pending rows and objects. That orphan case is the architecture lesson; do not pretend upload is one transaction.
+3. **Publish** — `POST /api/collections/:id/publish`. Domain function checks location, at least one completed photo, and a cover (default cover = lowest `sort_order` if unset). Returns a typed error (`MissingLocation`, `NoPhotos`). The route maps that to `409`. The UI does not re-implement the rules.
+4. **Public map/list** — `GET /api/collections`. No auth. SQL `where published`. Response has slug, title, date, place, lat, lng, cover URL. No draft rows, no storage keys for drafts.
+5. **Public gallery** — page `/collections/[slug]`, data from `GET /api/collections/:slug`. `404` if missing or not published (same response, so drafts are not enumerable).
+6. **Delete photo** — remove row, clear cover if it pointed here, delete the object. If storage delete fails, record it; do not leave the row pointing at a key you already removed without a defined order. Pick an order and document it: **delete the row in a transaction only after storage delete succeeds**, or **mark deleted then sweep**. Choose one and stick to it.
+
+Keep handlers thin:
+
+- `app/api/...` parses input and maps errors to HTTP
+- `lib/auth.ts` answers “is this the admin?”
+- `lib/collections.ts` holds publish rules and slug rules (unit-test these with no HTTP)
+- `lib/db` is SQL only
+- `lib/storage` is the bucket only
+
+That split is the backend-flow practice. Skip extra services, queues, and Redis.
+
+### 4. Tests that prove the design
+
+- Domain: publish rejected without coordinates; slug suffix on collision; cover falls back to first photo.
+- Authorization: anonymous `GET` by slug of a draft is `404`; admin can `GET` the draft.
+- Upload: pending photo never appears on the public gallery.
+
+### 5. What not to practice on this project
+
+Microservices, event buses, Kubernetes, a generic repository framework, and a second admin frontend. Those add boxes without a new constraint. The constraints worth learning here are **two stores (SQL + objects)**, **two actors (anon + admin)**, and **invariants the database cannot fully express**.
+
+---
+
+## Implementation order (when coding starts)
+
+Do the written artifacts in “Architecture practice” first (schema notes, auth matrix, six flows). Then:
+
+1. SQL migration + RLS + admin auth + create/edit collection **without** photos.
+2. Photo upload pipeline (including the incomplete-upload case) + admin gallery + public collection page.
+3. Public map (published collections only).
+4. Publish-rule polish, year/city filters, empty/error states, CI, README + live URL.
+
+**Not started.** Do not skip to a map demo before auth and `published` exist, or drafts will leak.
+
+---
+
+## How to continue
+
+1. This file is the source of truth. Commit it if it is not on the remote yet.
+2. Defaults in “Decide before coding” are locked. Site title can wait.
+3. Next session starts with schema notes, the auth matrix, and the six flows — then the migration. Not with a map component.
+4. Prompt starter: *“Read `docs/street-photography-planning.md`. Write schema notes, the auth matrix, and the six backend flows, then implement step 1 (migration, RLS, create collection).”*
