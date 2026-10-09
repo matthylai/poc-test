@@ -1,0 +1,102 @@
+{
+  "regions": [
+    "hokkaido",
+    "tohoku",
+    "koshinetsu"
+  ],
+  "regionLabels": {
+    "hokkaido": "Hokkaido",
+    "tohoku": "Tohoku",
+    "koshinetsu": "Koshinetsu"
+  },
+  "areasByRegion": {
+    "hokkaido": [
+      "niseko",
+      "sapporo",
+      "central",
+      "eastern"
+    ],
+    "tohoku": [
+      "appi",
+      "zao",
+      "bandai",
+      "geto"
+    ],
+    "koshinetsu": [
+      "yuzawa",
+      "hakuba",
+      "nozawa",
+      "shiga",
+      "madarao",
+      "myoko",
+      "gunma",
+      "fuji"
+    ]
+  },
+  "areaLabels": {
+    "niseko": "Niseko",
+    "sapporo": "Sapporo",
+    "central": "Central",
+    "eastern": "Eastern",
+    "appi": "Appi",
+    "zao": "Zao",
+    "bandai": "Bandai",
+    "geto": "Geto",
+    "yuzawa": "Yuzawa",
+    "hakuba": "Hakuba",
+    "nozawa": "Nozawa",
+    "shiga": "Shiga Kogen",
+    "madarao": "Madarao",
+    "myoko": "Myoko",
+    "gunma": "Gunma",
+    "fuji": "Fuji"
+  },
+  "amenityTags": [
+    "beginner-friendly",
+    "powder",
+    "gates",
+    "public-transport",
+    "night-skiing",
+    "tokyo-easy",
+    "hokkaido-base",
+    "english-friendly",
+    "quieter"
+  ],
+  "amenityTagLabels": {
+    "beginner-friendly": "Beginner friendly",
+    "powder": "Powder",
+    "gates": "Gates (off-piste)",
+    "public-transport": "Public transport",
+    "night-skiing": "Night skiing",
+    "tokyo-easy": "Easy from Tokyo",
+    "hokkaido-base": "Hokkaido base",
+    "english-friendly": "English lessons",
+    "quieter": "Quieter"
+  },
+  "choosePresets": [
+    {
+      "id": "tokyo-first",
+      "label": "First trip from Tokyo, no car",
+      "detail": "Beginner terrain, public transport, and an easy Honshu approach.",
+      "href": "/?tags=beginner-friendly%2Cpublic-transport%2Ctokyo-easy"
+    },
+    {
+      "id": "hokkaido-week",
+      "label": "Hokkaido week",
+      "detail": "Stay in Hokkaido instead of a Tokyo side trip.",
+      "href": "/?region=hokkaido&tags=hokkaido-base"
+    },
+    {
+      "id": "english-lessons",
+      "label": "English-speaking lessons",
+      "detail": "Schools that publish English instruction.",
+      "href": "/?tags=english-friendly"
+    },
+    {
+      "id": "quieter-powder",
+      "label": "Quieter powder",
+      "detail": "A curated label for places that usually see fewer international crowds.",
+      "href": "/?tags=quieter%2Cpowder"
+    }
+  ]
+}

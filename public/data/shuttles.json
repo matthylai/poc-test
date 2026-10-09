@@ -1,0 +1,416 @@
+{
+  "grand-hirafu": {
+    "note": "Winter summary only. Confirm season dates and exact times on the official PDF or access page before you travel.",
+    "routes": [
+      {
+        "id": "niseko-united-shuttle",
+        "nameEn": "Niseko United Shuttle",
+        "fromEn": "Hanazono / Hirafu / Village",
+        "toEn": "Annupuri (and reverse)",
+        "summary": "Typical winter: about every 30–60 min by day; Hirafu Welcome Centre toward Hanazono ~08:50–20:50, toward Annupuri ~08:00–20:00 (season dates vary).",
+        "fareNote": "Free with a valid All Mountain / qualifying United pass; otherwise pay on board.",
+        "officialUrl": "https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/United2025EN.pdf"
+      },
+      {
+        "id": "niseko-kutchan-line",
+        "nameEn": "Winter Kutchan Line (LOCAL)",
+        "fromEn": "Hirafu Welcome Centre",
+        "toEn": "JR Kutchan Station",
+        "summary": "Daytime winter local bus between Hirafu and Kutchan. Look for LOCAL — not the United (NUS) shuttle. Evening: separate Kutchan Night Bus on peak dates.",
+        "fareNote": "Paid local route; United All Mountain Pass does not cover this line.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      },
+      {
+        "id": "niseko-cts-bus",
+        "nameEn": "Chuo Bus — New Chitose ↔ Niseko",
+        "fromEn": "New Chitose Airport",
+        "toEn": "Hirafu / Village / Annupuri",
+        "summary": "Direct winter airport coach (typical season mid-Dec – late Mar). Several daily departures each way; about 2.5–3.5 hr depending on stops.",
+        "fareNote": "Paid reserved coach — book ahead in peak weeks.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      },
+      {
+        "id": "niseko-sapporo-bus",
+        "nameEn": "Chuo Bus — Sapporo ↔ Niseko",
+        "fromEn": "JR Sapporo / Makomanai",
+        "toEn": "Hirafu / Village / Annupuri",
+        "summary": "Direct winter coach from Sapporo (typical season mid-Dec – late Mar). A few daily round trips.",
+        "fareNote": "Paid reserved coach.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      }
+    ]
+  },
+  "hanazono": {
+    "note": "Winter summary only. Confirm season dates and exact times on the official PDF or access page before you travel.",
+    "routes": [
+      {
+        "id": "niseko-united-shuttle",
+        "nameEn": "Niseko United Shuttle",
+        "fromEn": "Hanazono / Hirafu / Village",
+        "toEn": "Annupuri (and reverse)",
+        "summary": "Typical winter: about every 30–60 min by day; Hirafu Welcome Centre toward Hanazono ~08:50–20:50, toward Annupuri ~08:00–20:00 (season dates vary).",
+        "fareNote": "Free with a valid All Mountain / qualifying United pass; otherwise pay on board.",
+        "officialUrl": "https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/United2025EN.pdf"
+      },
+      {
+        "id": "niseko-kutchan-line",
+        "nameEn": "Winter Kutchan Line (LOCAL)",
+        "fromEn": "Hirafu Welcome Centre",
+        "toEn": "JR Kutchan Station",
+        "summary": "Daytime winter local bus between Hirafu and Kutchan. Look for LOCAL — not the United (NUS) shuttle. Evening: separate Kutchan Night Bus on peak dates.",
+        "fareNote": "Paid local route; United All Mountain Pass does not cover this line.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      },
+      {
+        "id": "niseko-cts-bus",
+        "nameEn": "Chuo Bus — New Chitose ↔ Niseko",
+        "fromEn": "New Chitose Airport",
+        "toEn": "Hirafu / Village / Annupuri",
+        "summary": "Direct winter airport coach (typical season mid-Dec – late Mar). Several daily departures each way; about 2.5–3.5 hr depending on stops.",
+        "fareNote": "Paid reserved coach — book ahead in peak weeks.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      },
+      {
+        "id": "niseko-sapporo-bus",
+        "nameEn": "Chuo Bus — Sapporo ↔ Niseko",
+        "fromEn": "JR Sapporo / Makomanai",
+        "toEn": "Hirafu / Village / Annupuri",
+        "summary": "Direct winter coach from Sapporo (typical season mid-Dec – late Mar). A few daily round trips.",
+        "fareNote": "Paid reserved coach.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      }
+    ]
+  },
+  "niseko-village": {
+    "note": "Winter summary only. Confirm season dates and exact times on the official PDF or access page before you travel.",
+    "routes": [
+      {
+        "id": "niseko-united-shuttle",
+        "nameEn": "Niseko United Shuttle",
+        "fromEn": "Hanazono / Hirafu / Village",
+        "toEn": "Annupuri (and reverse)",
+        "summary": "Typical winter: about every 30–60 min by day; Hirafu Welcome Centre toward Hanazono ~08:50–20:50, toward Annupuri ~08:00–20:00 (season dates vary).",
+        "fareNote": "Free with a valid All Mountain / qualifying United pass; otherwise pay on board.",
+        "officialUrl": "https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/United2025EN.pdf"
+      },
+      {
+        "id": "niseko-kutchan-line",
+        "nameEn": "Winter Kutchan Line (LOCAL)",
+        "fromEn": "Hirafu Welcome Centre",
+        "toEn": "JR Kutchan Station",
+        "summary": "Daytime winter local bus between Hirafu and Kutchan. Look for LOCAL — not the United (NUS) shuttle. Evening: separate Kutchan Night Bus on peak dates.",
+        "fareNote": "Paid local route; United All Mountain Pass does not cover this line.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      },
+      {
+        "id": "niseko-cts-bus",
+        "nameEn": "Chuo Bus — New Chitose ↔ Niseko",
+        "fromEn": "New Chitose Airport",
+        "toEn": "Hirafu / Village / Annupuri",
+        "summary": "Direct winter airport coach (typical season mid-Dec – late Mar). Several daily departures each way; about 2.5–3.5 hr depending on stops.",
+        "fareNote": "Paid reserved coach — book ahead in peak weeks.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      },
+      {
+        "id": "niseko-sapporo-bus",
+        "nameEn": "Chuo Bus — Sapporo ↔ Niseko",
+        "fromEn": "JR Sapporo / Makomanai",
+        "toEn": "Hirafu / Village / Annupuri",
+        "summary": "Direct winter coach from Sapporo (typical season mid-Dec – late Mar). A few daily round trips.",
+        "fareNote": "Paid reserved coach.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      }
+    ]
+  },
+  "annupuri": {
+    "note": "Winter summary only. Confirm season dates and exact times on the official PDF or access page before you travel.",
+    "routes": [
+      {
+        "id": "niseko-united-shuttle",
+        "nameEn": "Niseko United Shuttle",
+        "fromEn": "Hanazono / Hirafu / Village",
+        "toEn": "Annupuri (and reverse)",
+        "summary": "Typical winter: about every 30–60 min by day; Hirafu Welcome Centre toward Hanazono ~08:50–20:50, toward Annupuri ~08:00–20:00 (season dates vary).",
+        "fareNote": "Free with a valid All Mountain / qualifying United pass; otherwise pay on board.",
+        "officialUrl": "https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/United2025EN.pdf"
+      },
+      {
+        "id": "niseko-kutchan-line",
+        "nameEn": "Winter Kutchan Line (LOCAL)",
+        "fromEn": "Hirafu Welcome Centre",
+        "toEn": "JR Kutchan Station",
+        "summary": "Daytime winter local bus between Hirafu and Kutchan. Look for LOCAL — not the United (NUS) shuttle. Evening: separate Kutchan Night Bus on peak dates.",
+        "fareNote": "Paid local route; United All Mountain Pass does not cover this line.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      },
+      {
+        "id": "niseko-cts-bus",
+        "nameEn": "Chuo Bus — New Chitose ↔ Niseko",
+        "fromEn": "New Chitose Airport",
+        "toEn": "Hirafu / Village / Annupuri",
+        "summary": "Direct winter airport coach (typical season mid-Dec – late Mar). Several daily departures each way; about 2.5–3.5 hr depending on stops.",
+        "fareNote": "Paid reserved coach — book ahead in peak weeks.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      },
+      {
+        "id": "niseko-sapporo-bus",
+        "nameEn": "Chuo Bus — Sapporo ↔ Niseko",
+        "fromEn": "JR Sapporo / Makomanai",
+        "toEn": "Hirafu / Village / Annupuri",
+        "summary": "Direct winter coach from Sapporo (typical season mid-Dec – late Mar). A few daily round trips.",
+        "fareNote": "Paid reserved coach.",
+        "officialUrl": "https://www.niseko.ne.jp/en/niseko-access/"
+      }
+    ]
+  },
+  "moiwa": {
+    "note": "Moiwa is outside the United shuttle network. Taxi or private transfer from Village / Annupuri is typical.",
+    "routes": [
+      {
+        "id": "moiwa-taxi",
+        "nameEn": "Taxi / transfer from Village or Annupuri",
+        "fromEn": "Niseko Village / Annupuri",
+        "toEn": "Moiwa base",
+        "summary": "About 10–20 min by car. No United shuttle requirement.",
+        "officialUrl": "https://niseko-moiwa.jp/"
+      }
+    ]
+  },
+  "gala-yuzawa": {
+    "note": "Free GALA shuttle; no service when the mountain is closed. Confirm regular vs spring PDF on the access page.",
+    "routes": [
+      {
+        "id": "gala-station-shuttle",
+        "nameEn": "GALA free shuttle",
+        "fromEn": "Echigo-Yuzawa Station (East / West exits)",
+        "toEn": "GALA Yuzawa",
+        "summary": "Direct station ↔ resort shuttle in winter. Regular season often ~Dec mid – late Mar; spring season continues with its own PDF. Roughly every 20–40 min by day.",
+        "fareNote": "Free.",
+        "officialUrl": "https://gala.co.jp/en/winter/access/"
+      }
+    ]
+  },
+  "kagura": {
+    "note": "Yuzawa area resorts share seasonal station / onsen-town shuttles. Confirm on the Prince Kagura access pages.",
+    "routes": [
+      {
+        "id": "kagura-yuzawa-bus",
+        "nameEn": "Echigo-Yuzawa area bus / shuttle",
+        "fromEn": "Echigo-Yuzawa Station",
+        "toEn": "Kagura / Mitsumata area",
+        "summary": "About 30 min from Echigo-Yuzawa by bus in winter. Dragondola also links toward Naeba.",
+        "officialUrl": "https://www.princehotels.com/en/ski/kagura/"
+      }
+    ]
+  },
+  "naeba": {
+    "routes": [
+      {
+        "id": "naeba-yuzawa-bus",
+        "nameEn": "Echigo-Yuzawa ↔ Naeba bus",
+        "fromEn": "Echigo-Yuzawa Station",
+        "toEn": "Naeba",
+        "summary": "Winter bus from Echigo-Yuzawa (~40 min). Direct coaches from Tokyo also run in peak season.",
+        "officialUrl": "https://www.princehotels.com/en/ski/naeba/"
+      }
+    ]
+  },
+  "ishiuchi-maruyama": {
+    "routes": [
+      {
+        "id": "ishiuchi-yuzawa-bus",
+        "nameEn": "Echigo-Yuzawa ↔ Ishiuchi bus",
+        "fromEn": "Echigo-Yuzawa Station",
+        "toEn": "Ishiuchi Maruyama",
+        "summary": "Short winter bus from Echigo-Yuzawa (~15 min).",
+        "officialUrl": "https://ishiuchi.or.jp/en/winter/"
+      }
+    ]
+  },
+  "maiko-snow-resort": {
+    "routes": [
+      {
+        "id": "maiko-yuzawa-bus",
+        "nameEn": "Echigo-Yuzawa ↔ Maiko bus",
+        "fromEn": "Echigo-Yuzawa Station",
+        "toEn": "Maiko Snow Resort",
+        "summary": "Winter bus from Echigo-Yuzawa (~20 min).",
+        "officialUrl": "https://www.maiko-resort.com/"
+      }
+    ]
+  },
+  "happo-one": {
+    "note": "Valley and local PDFs change each winter. Use the official Happo and Hakuba Valley pages for exact times.",
+    "routes": [
+      {
+        "id": "happo-local-shuttle",
+        "nameEn": "Happo local shuttle",
+        "fromEn": "Happo Bus Terminal / hotels",
+        "toEn": "Happo Gondola / Sakka / Nakiyama",
+        "summary": "Local loops around Happo base and nearby lodging (typical winter mid-Dec – late Mar). Extra buses when crowded.",
+        "fareNote": "Free for Happo lift guests — confirm on the official page.",
+        "officialUrl": "https://www.happo-one.jp/en/access/shuttle-bus/"
+      },
+      {
+        "id": "hakuba-valley-shuttle",
+        "nameEn": "Hakuba Valley free resort shuttle",
+        "fromEn": "Valley hotels / JR Hakuba area",
+        "toEn": "Happo / Iwatake / Tsugaike / 47 / Goryu lines",
+        "summary": "Free winter valley shuttles between resorts and many hotels (line letters H, I, E, T, F, G, L, etc.). Roughly Dec – late Mar; intervals often ~30–45 min by day.",
+        "fareNote": "Free for guests using the linked resorts; check the current valley timetable.",
+        "officialUrl": "https://www.hakubavalley.com/en/access_en/shuttlebus_en/"
+      }
+    ]
+  },
+  "hakuba-47-goryu": {
+    "note": "Hakuba Valley free shuttles cover 47 / Goryu with lettered lines (F, G, L, and others).",
+    "routes": [
+      {
+        "id": "hakuba-valley-shuttle",
+        "nameEn": "Hakuba Valley free resort shuttle",
+        "fromEn": "Valley hotels / JR Hakuba area",
+        "toEn": "Happo / Iwatake / Tsugaike / 47 / Goryu lines",
+        "summary": "Free winter valley shuttles between resorts and many hotels (line letters H, I, E, T, F, G, L, etc.). Roughly Dec – late Mar; intervals often ~30–45 min by day.",
+        "fareNote": "Free for guests using the linked resorts; check the current valley timetable.",
+        "officialUrl": "https://www.hakubavalley.com/en/access_en/shuttlebus_en/"
+      }
+    ]
+  },
+  "tsugaike": {
+    "note": "Tsugaike links to Happo and Iwatake on free valley / three-resort shuttles.",
+    "routes": [
+      {
+        "id": "tsugaike-happo-iwatake",
+        "nameEn": "Happo · Iwatake · Tsugaike free shuttle",
+        "fromEn": "Tsugaike Gondola",
+        "toEn": "Happo / Iwatake",
+        "summary": "Free winter shuttle among the three bases (typical mid-Dec – late Mar). Also use Hakuba Valley lettered lines.",
+        "fareNote": "Free for guests using these resorts.",
+        "officialUrl": "https://www.tsugaike.gr.jp/winter/wp-content/themes/tsugaike/common/pdf/shuttlebus_timetable_en.pdf"
+      },
+      {
+        "id": "hakuba-valley-shuttle",
+        "nameEn": "Hakuba Valley free resort shuttle",
+        "fromEn": "Valley hotels / JR Hakuba area",
+        "toEn": "Happo / Iwatake / Tsugaike / 47 / Goryu lines",
+        "summary": "Free winter valley shuttles between resorts and many hotels (line letters H, I, E, T, F, G, L, etc.). Roughly Dec – late Mar; intervals often ~30–45 min by day.",
+        "fareNote": "Free for guests using the linked resorts; check the current valley timetable.",
+        "officialUrl": "https://www.hakubavalley.com/en/access_en/shuttlebus_en/"
+      }
+    ]
+  },
+  "hakuba-iwatake": {
+    "routes": [
+      {
+        "id": "iwatake-local",
+        "nameEn": "Iwatake / Happo free shuttle",
+        "fromEn": "Iwatake Gondola area",
+        "toEn": "Happo / Tsugaike / hotels",
+        "summary": "Shared winter free shuttles with Happo and Tsugaike; Hakuba Valley lines also stop here.",
+        "fareNote": "Free for resort guests — confirm current PDF.",
+        "officialUrl": "https://www.iwatake-mountain-resort.com/en/winter/"
+      },
+      {
+        "id": "hakuba-valley-shuttle",
+        "nameEn": "Hakuba Valley free resort shuttle",
+        "fromEn": "Valley hotels / JR Hakuba area",
+        "toEn": "Happo / Iwatake / Tsugaike / 47 / Goryu lines",
+        "summary": "Free winter valley shuttles between resorts and many hotels (line letters H, I, E, T, F, G, L, etc.). Roughly Dec – late Mar; intervals often ~30–45 min by day.",
+        "fareNote": "Free for guests using the linked resorts; check the current valley timetable.",
+        "officialUrl": "https://www.hakubavalley.com/en/access_en/shuttlebus_en/"
+      }
+    ]
+  },
+  "nozawa-onsen": {
+    "note": "Village free shuttle season dates change yearly — confirm on the Nozawa portal.",
+    "routes": [
+      {
+        "id": "nozawa-village-shuttle",
+        "nameEn": "Village free shuttle",
+        "fromEn": "Nagasaka Bus Terminal",
+        "toEn": "Village / Central Terminal",
+        "summary": "Free loops through the village and to Nagasaka. Weekdays roughly every 20–40 min (~08:30–17:00); denser on weekends and New Year.",
+        "fareNote": "Free.",
+        "officialUrl": "https://en.nozawaski.com/access/village-free-shuttle-bus/"
+      },
+      {
+        "id": "nozawa-station-bus",
+        "nameEn": "Iiyama / Nagano ↔ Nozawa bus",
+        "fromEn": "Iiyama or Nagano Station",
+        "toEn": "Nozawa Onsen",
+        "summary": "Shinkansen to Iiyama plus bus (~30 min), or Nagano plus bus (~1 hr 10 min).",
+        "officialUrl": "https://en.nozawaski.com/access/"
+      }
+    ]
+  },
+  "furano": {
+    "note": "Airport coaches and local Furano buses are separate operators. Book airport seats in peak weeks.",
+    "routes": [
+      {
+        "id": "furano-cts-ski-bus",
+        "nameEn": "Ski bus — New Chitose ↔ Furano",
+        "fromEn": "New Chitose Airport",
+        "toEn": "Furano hotels / base",
+        "summary": "Daily winter coach (typical early Dec – late Mar). About 2.5–3.5 hr; leave buffer for flights.",
+        "fareNote": "Paid reserved ski bus.",
+        "officialUrl": "https://www.access-n.jp/winter2025/en/skibus/detail/chitose_furano.html"
+      },
+      {
+        "id": "furano-local-shuttle",
+        "nameEn": "Furano station / Kitanomine buses",
+        "fromEn": "Furano Station",
+        "toEn": "Shin Furano Prince / Kitanomine",
+        "summary": "Local Lavender / Goryo lines and evening shuttles link town, station, and the ski bases. Winter PDF from Furano tourism.",
+        "officialUrl": "https://www.furanotourism.com/"
+      }
+    ]
+  },
+  "tomamu": {
+    "routes": [
+      {
+        "id": "tomamu-jr-shuttle",
+        "nameEn": "JR Tomamu Station shuttle",
+        "fromEn": "JR Tomamu Station",
+        "toEn": "Hoshino Resorts Tomamu",
+        "summary": "Resort shuttle meets JR services at Tomamu Station. Also winter coaches from New Chitose.",
+        "officialUrl": "https://www.snowtomamu.jp/winter/en/"
+      }
+    ]
+  },
+  "rusutsu": {
+    "routes": [
+      {
+        "id": "rusutsu-airport-bus",
+        "nameEn": "Airport / Sapporo coaches",
+        "fromEn": "New Chitose / Sapporo",
+        "toEn": "Rusutsu Resort",
+        "summary": "Direct winter buses from New Chitose (~1 hr 45 min) and Sapporo. Confirm current timetable on the Rusutsu site.",
+        "officialUrl": "https://rusutsu.com/en/"
+      }
+    ]
+  },
+  "sapporo-teine": {
+    "routes": [
+      {
+        "id": "teine-city-bus",
+        "nameEn": "Sapporo city bus / Teine access",
+        "fromEn": "Sapporo Station / Teine",
+        "toEn": "Sapporo Teine",
+        "summary": "About 30 min from central Sapporo by car or city bus corridor. Check the official access page for winter bus times.",
+        "officialUrl": "https://sapporo-teine.com/snow/lang/en/"
+      }
+    ]
+  },
+  "appi-kogen": {
+    "routes": [
+      {
+        "id": "appi-morioka-bus",
+        "nameEn": "Morioka ↔ Appi bus",
+        "fromEn": "Morioka Station",
+        "toEn": "Appi Kogen",
+        "summary": "Shinkansen to Morioka plus winter bus (~55 min), or drive from Sendai Airport (~2.5 hr).",
+        "officialUrl": "https://www.appi.co.jp/en/"
+      }
+    ]
+  }
+}

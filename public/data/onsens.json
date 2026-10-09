@@ -1,0 +1,170 @@
+[
+  {
+    "id": "niseko-onsen",
+    "nameEn": "Niseko Onsenkyo",
+    "nameJa": "ニセコ温泉郷",
+    "lat": 42.804,
+    "lng": 140.687
+  },
+  {
+    "id": "hirafu-onsen",
+    "nameEn": "Hirafu onsen hotels",
+    "nameJa": "ひらふ温泉",
+    "lat": 42.86,
+    "lng": 140.705
+  },
+  {
+    "id": "jozankei-onsen",
+    "nameEn": "Jozankei Onsen",
+    "nameJa": "定山渓温泉",
+    "lat": 42.964,
+    "lng": 141.164
+  },
+  {
+    "id": "asari-onsen",
+    "nameEn": "Asarigawa Onsen",
+    "nameJa": "朝里川温泉",
+    "lat": 43.147,
+    "lng": 141.035
+  },
+  {
+    "id": "otaru-onsen",
+    "nameEn": "Otaru onsen",
+    "nameJa": "小樽温泉",
+    "lat": 43.191,
+    "lng": 140.994
+  },
+  {
+    "id": "teine-onsen",
+    "nameEn": "Teine / west Sapporo onsen",
+    "nameJa": "手稲・札幌西温泉",
+    "lat": 43.12,
+    "lng": 141.24
+  },
+  {
+    "id": "furano-onsen",
+    "nameEn": "Furano onsen",
+    "nameJa": "富良野温泉",
+    "lat": 43.342,
+    "lng": 142.383
+  },
+  {
+    "id": "tomamu-onsen",
+    "nameEn": "Tomamu hotel onsen",
+    "nameJa": "トマム温泉",
+    "lat": 43.055,
+    "lng": 142.611
+  },
+  {
+    "id": "asahidake-onsen",
+    "nameEn": "Asahidake Onsen",
+    "nameJa": "旭岳温泉",
+    "lat": 43.651,
+    "lng": 142.796
+  },
+  {
+    "id": "asahikawa-onsen",
+    "nameEn": "Asahikawa onsen",
+    "nameJa": "旭川温泉",
+    "lat": 43.763,
+    "lng": 142.358
+  },
+  {
+    "id": "sahoro-onsen",
+    "nameEn": "Sahoro resort onsen",
+    "nameJa": "サホロ温泉",
+    "lat": 43.168,
+    "lng": 142.808
+  },
+  {
+    "id": "kiroro-onsen",
+    "nameEn": "Kiroro hotel onsen",
+    "nameJa": "キロロ温泉",
+    "lat": 43.068,
+    "lng": 140.996
+  },
+  {
+    "id": "yuzawa-onsen",
+    "nameEn": "Yuzawa Onsen",
+    "nameJa": "湯沢温泉",
+    "lat": 36.934,
+    "lng": 138.806
+  },
+  {
+    "id": "hakuba-onsen",
+    "nameEn": "Happo / Hakuba onsen",
+    "nameJa": "白馬温泉",
+    "lat": 36.698,
+    "lng": 137.86
+  },
+  {
+    "id": "nozawa-onsen-village",
+    "nameEn": "Nozawa Onsen village",
+    "nameJa": "野沢温泉",
+    "lat": 36.923,
+    "lng": 138.44
+  },
+  {
+    "id": "shibu-onsen",
+    "nameEn": "Shibu Onsen",
+    "nameJa": "渋温泉",
+    "lat": 36.744,
+    "lng": 138.426
+  },
+  {
+    "id": "akakura-onsen-town",
+    "nameEn": "Akakura Onsen",
+    "nameJa": "赤倉温泉",
+    "lat": 36.894,
+    "lng": 138.155
+  },
+  {
+    "id": "kusatsu-onsen-town",
+    "nameEn": "Kusatsu Onsen",
+    "nameJa": "草津温泉",
+    "lat": 36.623,
+    "lng": 138.597
+  },
+  {
+    "id": "minakami-onsen",
+    "nameEn": "Minakami Onsen",
+    "nameJa": "みなかみ温泉",
+    "lat": 36.78,
+    "lng": 139
+  },
+  {
+    "id": "kawaguchiko-onsen",
+    "nameEn": "Kawaguchiko onsen",
+    "nameJa": "河口湖温泉",
+    "lat": 35.508,
+    "lng": 138.755
+  },
+  {
+    "id": "appi-onsen",
+    "nameEn": "Appi hotel onsen",
+    "nameJa": "安比温泉",
+    "lat": 40,
+    "lng": 140.939
+  },
+  {
+    "id": "zao-onsen-town",
+    "nameEn": "Zao Onsen",
+    "nameJa": "蔵王温泉",
+    "lat": 38.166,
+    "lng": 140.401
+  },
+  {
+    "id": "bandai-onsen",
+    "nameEn": "Bandai / Urabandai onsen",
+    "nameJa": "裏磐梯温泉",
+    "lat": 37.655,
+    "lng": 140.09
+  },
+  {
+    "id": "geto-onsen",
+    "nameEn": "Geto Onsen",
+    "nameJa": "夏油温泉",
+    "lat": 39.205,
+    "lng": 140.888
+  }
+]

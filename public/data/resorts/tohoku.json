@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "appi-kogen",
+    "nameEn": "Appi Kogen",
+    "nameJa": "安比高原",
+    "nameZhTw": "安比高原",
+    "region": "tohoku",
+    "area": "appi",
+    "locationEn": "Hachimantai, Iwate",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "quieter"
+    ],
+    "officialUrl": "https://www.appi.co.jp/en/",
+    "liftStatusUrl": "https://www.appi.co.jp/en/",
+    "trailMapPageUrl": "https://www.appi.co.jp/en/ski/slopemap/",
+    "webcamPageUrl": "https://www.appi.co.jp/en/",
+    "lat": 40.0002,
+    "lng": 140.9388,
+    "lifts": [
+      {
+        "nameEn": "Appi Gondola",
+        "nameJa": "安比ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Central Quad",
+        "nameJa": "セントラルクワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "First Quad",
+        "nameJa": "第1クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Second Pair",
+        "nameJa": "第2ペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "zao-onsen",
+    "nameEn": "Zao Onsen",
+    "nameJa": "蔵王温泉",
+    "nameZhTw": "藏王溫泉",
+    "region": "tohoku",
+    "area": "zao",
+    "locationEn": "Yamagata",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "night-skiing"
+    ],
+    "officialUrl": "https://www.zao-ski.or.jp/",
+    "liftStatusUrl": "https://www.zao-ski.or.jp/",
+    "trailMapPageUrl": "https://www.zao-ski.or.jp/",
+    "webcamPageUrl": "https://www.zao-ski.or.jp/",
+    "lat": 38.163,
+    "lng": 140.439,
+    "lifts": [
+      {
+        "nameEn": "Zao Ropeway",
+        "nameJa": "蔵王ロープウェイ",
+        "kind": "other"
+      },
+      {
+        "nameEn": "Sky Cable",
+        "nameJa": "スカイケーブル",
+        "kind": "other"
+      },
+      {
+        "nameEn": "Sanroku Line",
+        "nameJa": "山麓線",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Juhyo Lift",
+        "nameJa": "樹氷リフト",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "alts-bandai",
+    "nameEn": "Alts Bandai",
+    "nameJa": "アルツ磐梯",
+    "nameZhTw": "阿爾茨磐梯",
+    "region": "tohoku",
+    "area": "bandai",
+    "locationEn": "Bandai, Fukushima",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "quieter"
+    ],
+    "officialUrl": "https://www.alts.co.jp/",
+    "liftStatusUrl": "https://www.alts.co.jp/",
+    "trailMapPageUrl": "https://www.alts.co.jp/winter/slope/",
+    "webcamPageUrl": "https://www.alts.co.jp/",
+    "lat": 37.601,
+    "lng": 140.075,
+    "lifts": [
+      {
+        "nameEn": "Alts Gondola",
+        "nameJa": "アルツゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Panorama Quad",
+        "nameJa": "パノラマクワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Family Pair",
+        "nameJa": "ファミリーペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "geto-kogen",
+    "nameEn": "Geto Kogen",
+    "nameJa": "夏油高原",
+    "nameZhTw": "夏油高原",
+    "region": "tohoku",
+    "area": "geto",
+    "locationEn": "Kitakami, Iwate",
+    "tags": [
+      "powder",
+      "gates",
+      "quieter"
+    ],
+    "officialUrl": "https://www.getokogen.com/",
+    "liftStatusUrl": "https://www.getokogen.com/",
+    "trailMapPageUrl": "https://www.getokogen.com/winter/slope/",
+    "webcamPageUrl": "https://www.getokogen.com/",
+    "lat": 39.205,
+    "lng": 140.888,
+    "lifts": [
+      {
+        "nameEn": "Geto Gondola",
+        "nameJa": "夏油ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "First Quad",
+        "nameJa": "第1クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Second Pair",
+        "nameJa": "第2ペア",
+        "kind": "chair"
+      }
+    ]
+  }
+]

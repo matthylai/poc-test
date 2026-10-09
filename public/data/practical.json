@@ -1,0 +1,99 @@
+{
+  "grand-hirafu": {
+    "schoolUrl": "https://www.niseko.ne.jp/en/niseko-ski-school/",
+    "schoolNote": "United publishes English-language schools at each of the four bases.",
+    "rentalUrl": "https://www.niseko.ne.jp/en/niseko-rentals/",
+    "rentalNote": "Base rental counters differ by shop. Hirafu also has specialist rental shops for larger boots and powder boards. This is not live stock.",
+    "ticketNote": "Often about ¥9,000–13,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Hirafu Kutchan Hokkaido"
+  },
+  "hanazono": {
+    "schoolUrl": "https://www.niseko.ne.jp/en/niseko-ski-school/",
+    "schoolNote": "United publishes English-language schools at each of the four bases.",
+    "rentalUrl": "https://www.niseko.ne.jp/en/niseko-rentals/",
+    "rentalNote": "Base rental counters differ by shop. Hirafu also has specialist rental shops for larger boots and powder boards. This is not live stock.",
+    "ticketNote": "Often about ¥9,000–13,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Hanazono Kutchan Hokkaido"
+  },
+  "niseko-village": {
+    "schoolUrl": "https://www.niseko.ne.jp/en/niseko-ski-school/",
+    "schoolNote": "United publishes English-language schools at each of the four bases.",
+    "rentalUrl": "https://www.niseko.ne.jp/en/niseko-rentals/",
+    "rentalNote": "Base rental counters differ by shop. Hirafu also has specialist rental shops for larger boots and powder boards. This is not live stock.",
+    "ticketNote": "Often about ¥9,000–13,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Niseko Village Hokkaido"
+  },
+  "annupuri": {
+    "schoolUrl": "https://www.niseko.ne.jp/en/niseko-ski-school/",
+    "schoolNote": "United publishes English-language schools at each of the four bases.",
+    "rentalUrl": "https://www.niseko.ne.jp/en/niseko-rentals/",
+    "rentalNote": "Base rental counters differ by shop. Hirafu also has specialist rental shops for larger boots and powder boards. This is not live stock.",
+    "ticketNote": "Often about ¥9,000–13,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Annupuri Niseko Hokkaido"
+  },
+  "rusutsu": {
+    "ticketNote": "Often about ¥9,000–13,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Rusutsu Hokkaido",
+    "rentalNote": "Use the resort rental desk. Confirm sizes on the official site — this is not live stock."
+  },
+  "furano": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Furano Hokkaido"
+  },
+  "kiroro": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Kiroro Akaigawa Hokkaido"
+  },
+  "tomamu": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Tomamu Hokkaido"
+  },
+  "gala-yuzawa": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Gala Yuzawa Echigo-Yuzawa",
+    "schoolNote": "Lessons are booked on the GALA winter site.",
+    "rentalNote": "Rentals are at the resort. This is not live stock."
+  },
+  "kagura": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Kagura Yuzawa Niigata"
+  },
+  "naeba": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Naeba Yuzawa Niigata"
+  },
+  "happo-one": {
+    "schoolUrl": "https://www.happo-one.jp/en/school/",
+    "schoolNote": "Happo publishes an English ski and snowboard school page.",
+    "ticketNote": "Often about ¥9,000–13,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Hakuba Happo-one",
+    "rentalNote": "Rent at the resort or a Hakuba village shop. Specialist shops often have more sizes than the base counter. This is not live stock."
+  },
+  "hakuba-47": {
+    "ticketNote": "Often about ¥9,000–13,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Hakuba 47 Goryu",
+    "schoolNote": "Goryu and Happo schools publish English options. Start from the resort site."
+  },
+  "tsugaike": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Tsugaike Hakuba"
+  },
+  "iwatake": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Hakuba Iwatake"
+  },
+  "nozawa-onsen": {
+    "ticketNote": "Often about ¥9,000–13,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Nozawa Onsen",
+    "schoolUrl": "https://www.nozawaski.com/en/",
+    "schoolNote": "Use the official English site for school and lesson contacts."
+  },
+  "shiga-kogen": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Shiga Kogen Yamanouchi"
+  },
+  "appi-kogen": {
+    "ticketNote": "Often about ¥6,000–10,000 for an adult day pass in recent peak winters. Typical range, not today's price.",
+    "stayQuery": "Appi Kogen Iwate"
+  }
+}

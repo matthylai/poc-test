@@ -1,0 +1,785 @@
+[
+  {
+    "slug": "grand-hirafu",
+    "nameEn": "Grand Hirafu",
+    "nameJa": "グラン・ヒラフ",
+    "nameZhTw": "二世谷格蘭・比羅夫",
+    "region": "hokkaido",
+    "area": "niseko",
+    "locationEn": "Kutchan, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "night-skiing",
+      "hokkaido-base",
+      "english-friendly"
+    ],
+    "officialUrl": "https://www.niseko.ne.jp/en/",
+    "liftStatusUrl": "https://www.niseko.ne.jp/en/niseko-lift-status/",
+    "trailMapImageUrl": "https://www.niseko.ne.jp/en/wp-content/uploads/2026/09/2026-27_NU_Trail-Map_NisekoTokyuGrandHirafu_EN-1-scaled.jpg",
+    "trailMapPageUrl": "https://www.niseko.ne.jp/en/map/grand-hirafu/",
+    "webcamEmbedUrl": "https://www.youtube.com/embed/taDZzy8yMTw?autoplay=1&mute=1&playsinline=1&rel=0",
+    "webcamEmbeds": [
+      {
+        "label": "Mountain Center",
+        "url": "https://www.youtube.com/embed/taDZzy8yMTw?autoplay=1&mute=1&playsinline=1&rel=0"
+      },
+      {
+        "label": "Ace Hill (Annupuri side)",
+        "url": "https://www.youtube.com/embed/c_Mftnh0iJI?mute=1&playsinline=1&rel=0"
+      }
+    ],
+    "webcamPageUrl": "https://www.niseko.ne.jp/en/livecamera/",
+    "lat": 42.8645,
+    "lng": 140.688,
+    "lifts": [
+      {
+        "nameEn": "Ace Family Quad Lift",
+        "nameJa": "エースファミリークワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Ace Gondola",
+        "nameJa": "エースゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Ace Pair Lift #3",
+        "nameJa": "エース第3ペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Ace Pair Lift #4",
+        "nameJa": "エース第4ペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "King Gondola",
+        "nameJa": "キングゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "King Holiday Pair Lift",
+        "nameJa": "キングホリデーペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "King Sixpack Lift #3",
+        "nameJa": "キング第3シックスパック",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "King Single Lift #4",
+        "nameJa": "キング第4シングル",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Swinging Monkey",
+        "nameJa": "スインギングモンキー",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "hanazono",
+    "nameEn": "Hanazono",
+    "nameJa": "花園",
+    "nameZhTw": "花園",
+    "region": "hokkaido",
+    "area": "niseko",
+    "locationEn": "Kutchan, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "night-skiing",
+      "hokkaido-base",
+      "english-friendly"
+    ],
+    "officialUrl": "https://hanazononiseko.com/en/winter/",
+    "liftStatusUrl": "https://www.niseko.ne.jp/en/niseko-lift-status/",
+    "trailMapImageUrl": "https://www.niseko.ne.jp/en/wp-content/uploads/2026/09/2026-27_NU_Trail-Map_HANAZONO_EN-scaled.jpg",
+    "trailMapPageUrl": "https://www.niseko.ne.jp/en/map/hanazono/",
+    "webcamEmbedUrl": "https://www.youtube.com/embed/1ksmiy6EsDo?autoplay=1&mute=1&playsinline=1&rel=0",
+    "webcamPageUrl": "https://hanazononiseko.com/en/winter/resort/live-camera",
+    "lat": 42.8785,
+    "lng": 140.708,
+    "lifts": [
+      {
+        "nameEn": "Hanazono Hooded Lift #1",
+        "nameJa": "花園第1リフト",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Hanazono Quad Lift #2",
+        "nameJa": "花園第2クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Hanazono Hooded Quad Lift #3",
+        "nameJa": "花園第3クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Hanazono Symphony Gondola",
+        "nameJa": "花園シンフォニーゴンドラ",
+        "kind": "gondola"
+      }
+    ]
+  },
+  {
+    "slug": "niseko-village",
+    "nameEn": "Niseko Village",
+    "nameJa": "ニセコビレッジ",
+    "nameZhTw": "二世谷村",
+    "region": "hokkaido",
+    "area": "niseko",
+    "locationEn": "Niseko, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "night-skiing",
+      "hokkaido-base",
+      "english-friendly"
+    ],
+    "officialUrl": "https://www.niseko-village.com/white-season/",
+    "liftStatusUrl": "https://www.niseko.ne.jp/en/niseko-lift-status/",
+    "trailMapImageUrl": "https://www.niseko.ne.jp/en/wp-content/uploads/2026/09/2026-27_NU_Trail-Map_Niseko-Village_EN-scaled.jpg",
+    "trailMapPageUrl": "https://www.niseko.ne.jp/en/map/village/",
+    "webcamEmbedUrl": "https://www.youtube.com/embed/w1BuUCVYdsQ?autoplay=1&mute=1&playsinline=1&rel=0",
+    "webcamEmbeds": [
+      {
+        "label": "Niseko Gondola",
+        "url": "https://www.youtube.com/embed/w1BuUCVYdsQ?autoplay=1&mute=1&playsinline=1&rel=0"
+      },
+      {
+        "label": "Green Leaf",
+        "url": "https://www.youtube.com/embed/WMAL8MGGnRg?mute=1&playsinline=1&rel=0"
+      }
+    ],
+    "webcamPageUrl": "https://www.niseko.ne.jp/en/livecamera/",
+    "lat": 42.848,
+    "lng": 140.665,
+    "lifts": [
+      {
+        "nameEn": "Niseko Gondola",
+        "nameJa": "ニセコゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Upper Village Gondola",
+        "nameJa": "アッパービレッジゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Village Express",
+        "nameJa": "ビレッジエクスプレス",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Community Chair",
+        "nameJa": "コミュニティチェア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Banzai Chair",
+        "nameJa": "バンザイチェア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Mori No Chair",
+        "nameJa": "森のチェア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Wonderland Chair",
+        "nameJa": "ワンダーランドチェア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Country Road Chair",
+        "nameJa": "カントリーロードチェア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "annupuri",
+    "nameEn": "Annupuri",
+    "nameJa": "アンヌプリ",
+    "nameZhTw": "安努普利",
+    "region": "hokkaido",
+    "area": "niseko",
+    "locationEn": "Niseko, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "hokkaido-base",
+      "english-friendly"
+    ],
+    "officialUrl": "https://www.annupuri.info/en/",
+    "liftStatusUrl": "https://www.niseko.ne.jp/en/niseko-lift-status/",
+    "trailMapImageUrl": "https://www.niseko.ne.jp/en/wp-content/uploads/2026/09/2026-27_NU_Trail-Map_Annupuri_EN-scaled.jpg",
+    "trailMapPageUrl": "https://www.niseko.ne.jp/en/map/annupuri/",
+    "webcamEmbedUrl": "https://www.youtube.com/embed/F5aeMEfP0PY?autoplay=1&mute=1&playsinline=1&rel=0",
+    "webcamPageUrl": "https://www.niseko.ne.jp/en/livecamera/",
+    "lat": 42.855,
+    "lng": 140.651,
+    "lifts": [
+      {
+        "nameEn": "Annupuri Gondola",
+        "nameJa": "アンヌプリゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Dream Quad Lift #1",
+        "nameJa": "ドリーム第1クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Jumbo Quad Lift #1",
+        "nameJa": "ジャンボ第1クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Jumbo Pair Lift #2",
+        "nameJa": "ジャンボ第2ペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Jumbo Pair Lift #3",
+        "nameJa": "ジャンボ第3ペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Jumbo Pair Lift #4",
+        "nameJa": "ジャンボ第4ペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "moiwa",
+    "nameEn": "Moiwa",
+    "nameJa": "モイワ",
+    "nameZhTw": "藻岩",
+    "region": "hokkaido",
+    "area": "niseko",
+    "locationEn": "Niseko, Hokkaido",
+    "tags": [
+      "powder",
+      "gates",
+      "hokkaido-base",
+      "quieter"
+    ],
+    "officialUrl": "https://niseko-moiwa.jp/",
+    "liftStatusUrl": "https://niseko-moiwa.jp/",
+    "trailMapImageUrl": "https://niseko-moiwa.jp/wp-content/themes/moiwa/images/slope-map.jpg",
+    "trailMapPageUrl": "https://niseko-moiwa.jp/slope/",
+    "webcamEmbedUrl": "https://www.youtube.com/embed/-VurvCqf_XM?autoplay=1&mute=1&playsinline=1&rel=0",
+    "webcamEmbeds": [
+      {
+        "label": "Live cam 1",
+        "url": "https://www.youtube.com/embed/-VurvCqf_XM?autoplay=1&mute=1&playsinline=1&rel=0"
+      },
+      {
+        "label": "Live cam 2",
+        "url": "https://www.youtube.com/embed/w-4UbwOZHLk?mute=1&playsinline=1&rel=0"
+      }
+    ],
+    "webcamPageUrl": "https://niseko-moiwa.jp/",
+    "lat": 42.837,
+    "lng": 140.638,
+    "lifts": [
+      {
+        "nameEn": "Quad Lift",
+        "nameJa": "クワッドリフト",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Pair Lift #1",
+        "nameJa": "第1ペアリフト",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Pair Lift #2",
+        "nameJa": "第2ペアリフト",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "rusutsu",
+    "nameEn": "Rusutsu",
+    "nameJa": "ルスツ",
+    "nameZhTw": "留壽都",
+    "region": "hokkaido",
+    "area": "niseko",
+    "locationEn": "Rusutsu, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "night-skiing",
+      "hokkaido-base"
+    ],
+    "officialUrl": "https://rusutsu.com/en/",
+    "liftStatusUrl": "https://rusutsu.com/en/lift-and-trail-status/",
+    "trailMapImageUrl": "https://rusutsu.com/wp-content/uploads/trail-map-winter_en-1.jpg",
+    "trailMapPageUrl": "https://rusutsu.com/en/trail-map",
+    "webcamPageUrl": "https://rusutsu.com/en/live-mountain-cams/",
+    "lat": 42.749,
+    "lng": 140.898,
+    "lifts": [
+      {
+        "nameEn": "East Gondola",
+        "nameJa": "イーストゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "West Gondola",
+        "nameJa": "ウエストゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "East Quad Lift",
+        "nameJa": "イーストクワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "West No.1 Quad Lift",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "kiroro",
+    "nameEn": "Kiroro",
+    "nameJa": "キロロ",
+    "nameZhTw": "喜樂樂",
+    "region": "hokkaido",
+    "area": "niseko",
+    "locationEn": "Akaigawa, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "hokkaido-base"
+    ],
+    "officialUrl": "https://www.kiroro.co.jp/en/",
+    "liftStatusUrl": "https://www.kiroro.co.jp/dashboard/",
+    "trailMapImageUrl": "https://www.kiroro.co.jp/wp-content/uploads/2024/11/24-25MAP_EN.jpg",
+    "trailMapPageUrl": "https://www.kiroro.co.jp/guide_map/",
+    "webcamEmbedUrl": "https://www.youtube.com/embed/YlUSsQruxAM?autoplay=1&mute=1&playsinline=1&rel=0",
+    "webcamEmbeds": [
+      {
+        "label": "Base area",
+        "url": "https://www.youtube.com/embed/YlUSsQruxAM?autoplay=1&mute=1&playsinline=1&rel=0"
+      },
+      {
+        "label": "24-hour snowfall",
+        "url": "https://www.youtube.com/embed/MtnxrFkL6_U?mute=1&playsinline=1&rel=0"
+      },
+      {
+        "label": "Asari Peak",
+        "url": "https://www.youtube.com/embed/shUL9Da_jqo?mute=1&playsinline=1&rel=0"
+      },
+      {
+        "label": "Nagamine No.2 Area",
+        "url": "https://www.youtube.com/embed/OVajoZHFoso?mute=1&playsinline=1&rel=0"
+      }
+    ],
+    "webcamPageUrl": "https://www.kiroro.co.jp/en/livecamera/",
+    "lat": 43.068,
+    "lng": 140.996,
+    "lifts": [
+      {
+        "nameEn": "Kiroro Gondola",
+        "nameJa": "キロロゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Asari No.2 Express",
+        "nameJa": "朝里第2高速",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Nagamine No.1 Express",
+        "nameJa": "長嶺第1高速",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Family Lift",
+        "nameJa": "ファミリーリフト",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "sapporo-teine",
+    "nameEn": "Sapporo Teine",
+    "nameJa": "サッポロテイネ",
+    "nameZhTw": "札幌手稻",
+    "region": "hokkaido",
+    "area": "sapporo",
+    "locationEn": "Teine-ku, Sapporo",
+    "tags": [
+      "beginner-friendly",
+      "public-transport",
+      "night-skiing",
+      "hokkaido-base"
+    ],
+    "officialUrl": "https://sapporo-teine.com/snow/lang/en/",
+    "liftStatusUrl": "https://sapporo-teine.com/snow/lang/en/trailstatus/",
+    "trailMapPageUrl": "https://sapporo-teine.com/snow/lang/en/wp-content/themes/teine-snow/assets/pdf/course_map.pdf",
+    "webcamEmbedUrl": "https://www.youtube.com/embed/uABIARvcghg?autoplay=1&mute=1&playsinline=1&rel=0",
+    "webcamPageUrl": "https://sapporo-teine.com/snow/lang/en/trailstatus/",
+    "lat": 43.084,
+    "lng": 141.208,
+    "lifts": [
+      {
+        "nameEn": "EIGHT Gondola",
+        "nameJa": "エイトゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Summit Express",
+        "nameJa": "サミットエクスプレス",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "PANORAMA No.1",
+        "nameJa": "パノラマ1号",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "PARADISE",
+        "nameJa": "パラダイスリフト",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "sapporo-kokusai",
+    "nameEn": "Sapporo Kokusai",
+    "nameJa": "札幌国際",
+    "nameZhTw": "札幌國際",
+    "region": "hokkaido",
+    "area": "sapporo",
+    "locationEn": "Minami-ku, Sapporo",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "hokkaido-base"
+    ],
+    "officialUrl": "https://www.sapporo-kokusai.jp/en/",
+    "liftStatusUrl": "https://www.sapporo-kokusai.jp/en/slopes/",
+    "trailMapImageUrl": "https://www.sapporo-kokusai.jp/en/slopes/images/slopemap.png",
+    "trailMapPageUrl": "https://www.sapporo-kokusai.jp/en/slopes/",
+    "webcamEmbedUrl": "https://www.youtube.com/embed/WE6rq7xihKw?autoplay=1&mute=1&playsinline=1&rel=0",
+    "webcamEmbeds": [
+      {
+        "label": "Summit cam",
+        "url": "https://www.youtube.com/embed/WE6rq7xihKw?autoplay=1&mute=1&playsinline=1&rel=0"
+      },
+      {
+        "label": "Base cam",
+        "url": "https://www.youtube.com/embed/OOyl_XSzYNo?mute=1&playsinline=1&rel=0"
+      },
+      {
+        "label": "Snowfall cam",
+        "url": "https://www.youtube.com/embed/eLcfhDohW_0?mute=1&playsinline=1&rel=0"
+      }
+    ],
+    "webcamPageUrl": "https://www.sapporo-kokusai.jp/en/live.php",
+    "lat": 42.979,
+    "lng": 141.237,
+    "lifts": [
+      {
+        "nameEn": "SkyCabin8",
+        "nameJa": "スカイキャビン8",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Marchen Quad Lift",
+        "nameJa": "メルヘンクワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Echo Quad Lift",
+        "nameJa": "エコークワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Woody Pair Lift",
+        "nameJa": "ウッディーペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "asarigawa-onsen",
+    "nameEn": "Asarigawa Onsen",
+    "nameJa": "朝里川温泉",
+    "nameZhTw": "朝里川溫泉",
+    "region": "hokkaido",
+    "area": "sapporo",
+    "locationEn": "Otaru, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "night-skiing",
+      "hokkaido-base",
+      "quieter"
+    ],
+    "officialUrl": "https://asari-ski.com/en/",
+    "liftStatusUrl": "https://asari-ski.com/en/slopes/",
+    "trailMapImageUrl": "https://asari-ski.com/slopes/img/slope_map_en.webp",
+    "trailMapPageUrl": "https://asari-ski.com/en/slopes/",
+    "lat": 43.147,
+    "lng": 141.035,
+    "lifts": [
+      {
+        "nameEn": "Purple Lift",
+        "nameJa": "パープルリフト",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Yellow Lift",
+        "nameJa": "イエローリフト",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Green Lift",
+        "nameJa": "グリーンリフト",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Red Lift",
+        "nameJa": "レッドリフト",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "furano",
+    "nameEn": "Furano",
+    "nameJa": "富良野",
+    "nameZhTw": "富良野",
+    "region": "hokkaido",
+    "area": "central",
+    "locationEn": "Furano, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "night-skiing",
+      "hokkaido-base"
+    ],
+    "officialUrl": "https://www.princehotels.com/en/ski/furano/",
+    "liftStatusUrl": "https://www.princehotels.co.jp/ski/furano/winter/coursemap/",
+    "trailMapPageUrl": "https://www.princehotels.com/en/ski/furano/mountain_map.pdf",
+    "webcamEmbedUrl": "https://skiday.app/qjjomrGpZ2icbbkYBQxh/865036042047983/embed",
+    "webcamEmbeds": [
+      {
+        "label": "Ski area snowfall",
+        "url": "https://skiday.app/qjjomrGpZ2icbbkYBQxh/865036042047983/embed"
+      },
+      {
+        "label": "Furano Zone summit",
+        "url": "https://skiday.app/qjjomrGpZ2icbbkYBQxh/869223040349118/embed"
+      }
+    ],
+    "webcamPageUrl": "https://www.princehotels.co.jp/ski/furano/livecamera/",
+    "lat": 43.334,
+    "lng": 142.354,
+    "lifts": [
+      {
+        "nameEn": "Furano Ropeway",
+        "nameJa": "富良野ロープウェイ",
+        "kind": "other"
+      },
+      {
+        "nameEn": "Kitanomine Gondola",
+        "nameJa": "北の峰ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Furano Downhill Swift Lift No. 1",
+        "nameJa": "ダウンヒル第1高速",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Prince Romance Lift",
+        "nameJa": "プリンスロマンス",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "tomamu",
+    "nameEn": "Tomamu",
+    "nameJa": "トマム",
+    "nameZhTw": "星野TOMAMU",
+    "region": "hokkaido",
+    "area": "central",
+    "locationEn": "Shimukappu, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "hokkaido-base"
+    ],
+    "officialUrl": "https://www.snowtomamu.jp/winter/en/",
+    "liftStatusUrl": "https://www.snowtomamu.jp/winter/en/ski/ski-slope/condition/",
+    "trailMapImageUrl": "https://www.snowtomamu.jp/assets/ski/images/ski-slope/course-map01-en.png",
+    "trailMapPageUrl": "https://www.snowtomamu.jp/winter/en/ski/ski-slope/",
+    "lat": 43.055,
+    "lng": 142.611,
+    "lifts": [
+      {
+        "nameEn": "UNKAI Gondola",
+        "nameJa": "雲海ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Tomamu Express",
+        "nameJa": "トマムエクスプレス",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Powder Express",
+        "nameJa": "パウダーエクスプレス",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Tower Express",
+        "nameJa": "タワーエクスプレス",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Nipo Chair",
+        "nameJa": "ニポチェア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "kamui-ski-links",
+    "nameEn": "Kamui Ski Links",
+    "nameJa": "カムイスキーリンクス",
+    "nameZhTw": "神居滑雪連結",
+    "region": "hokkaido",
+    "area": "central",
+    "locationEn": "Asahikawa, Hokkaido",
+    "tags": [
+      "powder",
+      "gates",
+      "hokkaido-base",
+      "quieter"
+    ],
+    "officialUrl": "https://www.kamui-skilinks.com/en/",
+    "liftStatusUrl": "https://www.kamui-skilinks.com/wp/today/",
+    "trailMapImageUrl": "https://www.kamui-skilinks.com/wp/wp-content/themes/Circles/images/coursemap_en.jpg",
+    "trailMapPageUrl": "https://www.kamui-skilinks.com/en/",
+    "webcamPageUrl": "https://www.kamui-skilinks.com/",
+    "lat": 43.67,
+    "lng": 142.195,
+    "lifts": [
+      {
+        "nameEn": "Kamui Gondola",
+        "nameJa": "カムイゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "No.2 Quad Lift",
+        "nameJa": "第2クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "No.1 Pair Lift",
+        "nameJa": "第1ペアリフト",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "No.5 Pair Lift",
+        "nameJa": "第5ペアリフト",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "asahidake",
+    "nameEn": "Asahidake",
+    "nameJa": "旭岳",
+    "nameZhTw": "旭岳",
+    "region": "hokkaido",
+    "area": "central",
+    "locationEn": "Higashikawa, Hokkaido",
+    "tags": [
+      "powder",
+      "gates",
+      "hokkaido-base",
+      "quieter"
+    ],
+    "officialUrl": "https://asahidake.hokkaido.jp/en/",
+    "liftStatusUrl": "https://asahidake.hokkaido.jp/en/",
+    "webcamEmbedUrl": "https://webcam.wakasagroup.com/asahidake_webcam_now.jpg",
+    "webcamPageUrl": "https://asahidake.hokkaido.jp/en/",
+    "lat": 43.651,
+    "lng": 142.796,
+    "lifts": [
+      {
+        "nameEn": "Asahidake Ropeway",
+        "nameJa": "旭岳ロープウェイ",
+        "kind": "other"
+      }
+    ]
+  },
+  {
+    "slug": "sahoro",
+    "nameEn": "Sahoro",
+    "nameJa": "サホロ",
+    "nameZhTw": "佐幌",
+    "region": "hokkaido",
+    "area": "eastern",
+    "locationEn": "Shintoku, Hokkaido",
+    "tags": [
+      "beginner-friendly",
+      "public-transport",
+      "hokkaido-base",
+      "quieter"
+    ],
+    "officialUrl": "https://sahoro-resort.com/winter/ski?lang=en",
+    "liftStatusUrl": "https://sahoro-resort.com/winter/ski?lang=en",
+    "trailMapPageUrl": "https://sahoro-resort.com/wp-content/uploads/2026/05/digital_guide.pdf",
+    "webcamEmbedUrl": "https://sahoro-resort.com/livecam/glive.jpg",
+    "webcamPageUrl": "https://sahoro-resort.com/winter/live-camera-24",
+    "lat": 43.168,
+    "lng": 142.808,
+    "lifts": [
+      {
+        "nameEn": "Sahoro Gondola",
+        "nameJa": "サホロゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Sahoro Express",
+        "nameJa": "サホロエクスプレス",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "8th Lift",
+        "nameJa": "第8リフト",
+        "kind": "chair"
+      }
+    ]
+  }
+]

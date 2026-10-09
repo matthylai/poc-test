@@ -1,0 +1,617 @@
+{
+  "grand-hirafu": {
+    "season": "Late November – early May (typical)",
+    "hours": "About 8:30–16:30; night skiing on selected lifts",
+    "nightSkiing": true,
+    "verticalM": 940,
+    "character": "Village skiing, long fall line, mixed ability. Core of Niseko United.",
+    "passes": [
+      {
+        "nameEn": "Niseko United",
+        "url": "https://www.niseko.ne.jp/en/lift/"
+      },
+      {
+        "nameEn": "Ikon Pass",
+        "url": "https://www.niseko.ne.jp/en/lift/ikonpass/"
+      },
+      {
+        "nameEn": "Mountain Collective",
+        "url": "https://www.niseko.ne.jp/en/lift/mountain-collective/"
+      }
+    ],
+    "access": "Typical winter drive from New Chitose Airport is about 2 hr 10 min. Direct airport buses run to Hirafu, Village, and Annupuri. Check the official getting-here page for the current timetable.",
+    "accessUrl": "https://www.niseko.ne.jp/en/"
+  },
+  "hanazono": {
+    "season": "Late November – early May (typical)",
+    "hours": "About 8:30–16:00; some night skiing",
+    "nightSkiing": true,
+    "verticalM": 760,
+    "character": "Quieter Niseko United side; trees and family terrain.",
+    "passes": [
+      {
+        "nameEn": "Niseko United",
+        "url": "https://www.niseko.ne.jp/en/lift/"
+      },
+      {
+        "nameEn": "Ikon Pass",
+        "url": "https://www.niseko.ne.jp/en/lift/ikonpass/"
+      },
+      {
+        "nameEn": "Mountain Collective",
+        "url": "https://www.niseko.ne.jp/en/lift/mountain-collective/"
+      }
+    ],
+    "access": "Typical winter drive from New Chitose Airport is about 2 hr 10 min. Direct airport buses run to Hirafu, Village, and Annupuri. Check the official getting-here page for the current timetable.",
+    "accessUrl": "https://www.niseko.ne.jp/en/"
+  },
+  "niseko-village": {
+    "season": "Late November – early May (typical)",
+    "hours": "About 8:30–16:30; night skiing on selected lifts",
+    "nightSkiing": true,
+    "verticalM": 830,
+    "character": "Gondola-served United terrain above the Hilton/Green Leaf base.",
+    "passes": [
+      {
+        "nameEn": "Niseko United",
+        "url": "https://www.niseko.ne.jp/en/lift/"
+      },
+      {
+        "nameEn": "Ikon Pass",
+        "url": "https://www.niseko.ne.jp/en/lift/ikonpass/"
+      },
+      {
+        "nameEn": "Mountain Collective",
+        "url": "https://www.niseko.ne.jp/en/lift/mountain-collective/"
+      }
+    ],
+    "access": "Typical winter drive from New Chitose Airport is about 2 hr 10 min. Direct airport buses run to Hirafu, Village, and Annupuri. Check the official getting-here page for the current timetable.",
+    "accessUrl": "https://www.niseko.ne.jp/en/"
+  },
+  "annupuri": {
+    "season": "Late November – early May (typical)",
+    "hours": "About 8:30–16:00",
+    "nightSkiing": false,
+    "verticalM": 540,
+    "character": "Mellow pitch, good in a storm; links to Village and Moiwa.",
+    "passes": [
+      {
+        "nameEn": "Niseko United",
+        "url": "https://www.niseko.ne.jp/en/lift/"
+      },
+      {
+        "nameEn": "Ikon Pass",
+        "url": "https://www.niseko.ne.jp/en/lift/ikonpass/"
+      },
+      {
+        "nameEn": "Mountain Collective",
+        "url": "https://www.niseko.ne.jp/en/lift/mountain-collective/"
+      }
+    ],
+    "access": "Typical winter drive from New Chitose Airport is about 2 hr 10 min. Direct airport buses run to Hirafu, Village, and Annupuri. Check the official getting-here page for the current timetable.",
+    "accessUrl": "https://www.niseko.ne.jp/en/"
+  },
+  "moiwa": {
+    "season": "December – April (typical)",
+    "hours": "About 9:00–16:00",
+    "nightSkiing": false,
+    "verticalM": 430,
+    "character": "Small independent hill next to Annupuri. Not on the Niseko United pass.",
+    "passes": [
+      {
+        "nameEn": "Moiwa ticket",
+        "url": "https://niseko-moiwa.jp/"
+      }
+    ],
+    "access": "About 20 min from Hirafu by car. No United shuttle requirement — drive or taxi from Niseko Village / Annupuri.",
+    "accessUrl": "https://niseko-moiwa.jp/"
+  },
+  "rusutsu": {
+    "season": "Late November – early April (typical)",
+    "hours": "About 8:30–16:00; night skiing on the East side",
+    "nightSkiing": true,
+    "verticalM": 600,
+    "character": "Three peaks, long cruising trails, family and park terrain.",
+    "passes": [
+      {
+        "nameEn": "Rusutsu ticket",
+        "url": "https://rusutsu.com/en/"
+      },
+      {
+        "nameEn": "Ikon Pass",
+        "url": "https://rusutsu.com/en/"
+      }
+    ],
+    "access": "About 1 hr 45 min from New Chitose by car. Direct airport buses in winter. About 40 min from Niseko.",
+    "accessUrl": "https://rusutsu.com/en/"
+  },
+  "kiroro": {
+    "season": "Late November – May (typical)",
+    "hours": "About 8:30–16:30",
+    "nightSkiing": false,
+    "verticalM": 610,
+    "character": "Deep snow, two faces (Asari and Nagamine), quieter than Niseko.",
+    "passes": [
+      {
+        "nameEn": "Kiroro ticket",
+        "url": "https://www.kiroro.co.jp/en/"
+      }
+    ],
+    "access": "About 1 hr 35 min from New Chitose, about 55 min from central Sapporo. Closest big mountain to Otaru.",
+    "accessUrl": "https://www.kiroro.co.jp/en/"
+  },
+  "sapporo-teine": {
+    "season": "Late November – late March (typical)",
+    "hours": "Day plus well-known night skiing (check official hours)",
+    "nightSkiing": true,
+    "verticalM": 590,
+    "character": "City mountain: steep World Cup pitches and easy lower slopes.",
+    "passes": [
+      {
+        "nameEn": "Teine ticket",
+        "url": "https://sapporo-teine.com/snow/lang/en/"
+      }
+    ],
+    "access": "About 30 min from Sapporo Station, about 1 hr from New Chitose. City bus and car.",
+    "accessUrl": "https://sapporo-teine.com/snow/lang/en/"
+  },
+  "sapporo-kokusai": {
+    "season": "December – April (typical)",
+    "hours": "About 9:00–16:00",
+    "nightSkiing": false,
+    "verticalM": 530,
+    "character": "Snowy Jozankei-side hill; trees and storm skiing close to Sapporo.",
+    "passes": [
+      {
+        "nameEn": "Kokusai ticket",
+        "url": "https://www.sapporo-kokusai.jp/en/"
+      }
+    ],
+    "access": "About 50 min from central Sapporo, about 1 hr 15 min from New Chitose. Car or bus via Jozankei.",
+    "accessUrl": "https://www.sapporo-kokusai.jp/en/"
+  },
+  "asarigawa-onsen": {
+    "season": "December – March (typical)",
+    "hours": "Day and night sessions (check official hours)",
+    "nightSkiing": true,
+    "verticalM": 370,
+    "character": "Small Otaru hill with onsen at the base. Easy day trip from Sapporo.",
+    "passes": [
+      {
+        "nameEn": "Asari ticket",
+        "url": "https://asari-ski.com/en/"
+      }
+    ],
+    "access": "About 40 min from Sapporo, 18 min from Otaru. Car is simplest in winter.",
+    "accessUrl": "https://asari-ski.com/en/"
+  },
+  "furano": {
+    "season": "Late November – early May (typical)",
+    "hours": "About 8:30–16:00; limited night skiing in season",
+    "nightSkiing": true,
+    "verticalM": 960,
+    "character": "Two faces (Furano and Kitanomine), long groomers, inland powder.",
+    "passes": [
+      {
+        "nameEn": "Furano ticket",
+        "url": "https://www.princehotels.com/en/ski/furano/"
+      },
+      {
+        "nameEn": "Ikon Pass",
+        "url": "https://www.princehotels.com/en/ski/furano/"
+      }
+    ],
+    "access": "About 1 hr from Asahikawa Airport, 2 hr 30 min from New Chitose. Winter buses from both airports.",
+    "accessUrl": "https://www.princehotels.com/en/ski/furano/"
+  },
+  "tomamu": {
+    "season": "December – April (typical)",
+    "hours": "About 8:30–16:00",
+    "nightSkiing": false,
+    "verticalM": 540,
+    "character": "Self-contained resort village, UNKAI Gondola, family facilities.",
+    "passes": [
+      {
+        "nameEn": "Tomamu ticket",
+        "url": "https://www.snowtomamu.jp/winter/en/"
+      },
+      {
+        "nameEn": "Ikon Pass",
+        "url": "https://www.snowtomamu.jp/winter/en/"
+      }
+    ],
+    "access": "About 1 hr 50 min from New Chitose via the expressway. JR to Tomamu Station plus resort shuttle.",
+    "accessUrl": "https://www.snowtomamu.jp/winter/en/"
+  },
+  "kamui-ski-links": {
+    "season": "December – April (typical)",
+    "hours": "About 9:00–16:00",
+    "nightSkiing": false,
+    "verticalM": 600,
+    "character": "Asahikawa powder hill with a gondola; quieter than Furano.",
+    "passes": [
+      {
+        "nameEn": "Kamui ticket",
+        "url": "https://www.kamui-skilinks.com/en/"
+      }
+    ],
+    "access": "About 25 min from Asahikawa city, 35 min from Asahikawa Airport. Car is the usual winter option.",
+    "accessUrl": "https://www.kamui-skilinks.com/en/"
+  },
+  "asahidake": {
+    "season": "Late November – May (ropeway; typical)",
+    "hours": "Ropeway daytime only (check official timetable)",
+    "nightSkiing": false,
+    "verticalM": 500,
+    "character": "One ropeway, onsen village, backcountry focus — not a groomed mega-resort.",
+    "passes": [
+      {
+        "nameEn": "Ropeway ticket",
+        "url": "https://asahidake.hokkaido.jp/en/"
+      }
+    ],
+    "access": "About 1 hr from Asahikawa Airport via Higashikawa. Car or limited winter bus.",
+    "accessUrl": "https://asahidake.hokkaido.jp/en/"
+  },
+  "sahoro": {
+    "season": "December – March (typical)",
+    "hours": "About 9:00–16:00",
+    "nightSkiing": false,
+    "verticalM": 540,
+    "character": "Quiet eastern hill, Club Med on site, good for families.",
+    "passes": [
+      {
+        "nameEn": "Sahoro ticket",
+        "url": "https://sahoro-resort.com/winter/ski?lang=en"
+      }
+    ],
+    "access": "About 2 hr 15 min from New Chitose. 15 min from Shintoku; 40 min from Tomamu.",
+    "accessUrl": "https://sahoro-resort.com/winter/ski?lang=en"
+  },
+  "appi-kogen": {
+    "season": "December – April (typical)",
+    "hours": "About 8:30–16:30",
+    "nightSkiing": false,
+    "verticalM": 550,
+    "character": "Big Iwate resort village with a gondola and long groomers.",
+    "passes": [
+      {
+        "nameEn": "Appi ticket",
+        "url": "https://www.appi.co.jp/en/"
+      }
+    ],
+    "access": "About 55 min from Morioka. Shinkansen to Morioka plus bus, or drive from Sendai Airport (~2.5 hr).",
+    "accessUrl": "https://www.appi.co.jp/en/"
+  },
+  "zao-onsen": {
+    "season": "December – April (typical)",
+    "hours": "Day plus night skiing on lower slopes (check official hours)",
+    "nightSkiing": true,
+    "verticalM": 880,
+    "character": "Onsen town skiing and the famous ice trees (juhyo) in mid-winter.",
+    "passes": [
+      {
+        "nameEn": "Zao ticket",
+        "url": "https://www.zao-ski.or.jp/"
+      }
+    ],
+    "access": "About 40 min from Yamagata city, about 1 hr from Sendai Airport. Bus from Yamagata Station.",
+    "accessUrl": "https://www.zao-ski.or.jp/"
+  },
+  "alts-bandai": {
+    "season": "December – March (typical)",
+    "hours": "About 8:30–16:30",
+    "nightSkiing": false,
+    "verticalM": 580,
+    "character": "Open Bandai-side terrain; easy day from Aizu / Inawashiro.",
+    "passes": [
+      {
+        "nameEn": "Alts ticket",
+        "url": "https://www.alts.co.jp/"
+      }
+    ],
+    "access": "About 1.5 hr from Sendai. Closest station Inawashiro plus bus or taxi.",
+    "accessUrl": "https://www.alts.co.jp/"
+  },
+  "geto-kogen": {
+    "season": "December – April (typical)",
+    "hours": "About 8:30–16:30",
+    "nightSkiing": false,
+    "verticalM": 650,
+    "character": "Steep, snowy Kitakami hill known for powder and fewer crowds.",
+    "passes": [
+      {
+        "nameEn": "Geto ticket",
+        "url": "https://www.getokogen.com/"
+      }
+    ],
+    "access": "About 40 min from Kitakami (Tohoku Shinkansen). Car or winter bus.",
+    "accessUrl": "https://www.getokogen.com/"
+  },
+  "gala-yuzawa": {
+    "season": "December – May (typical)",
+    "hours": "About 8:00–17:00; night skiing in season",
+    "nightSkiing": true,
+    "verticalM": 400,
+    "character": "Ski-in from Gala Yuzawa Station. Beginner-friendly Tokyo day trip.",
+    "passes": [
+      {
+        "nameEn": "Gala ticket",
+        "url": "https://gala.co.jp/en/winter/"
+      }
+    ],
+    "access": "Joetsu Shinkansen to Gala Yuzawa Station (about 80 min from Tokyo). Walk from the platform to the gondola.",
+    "accessUrl": "https://gala.co.jp/en/winter/access/"
+  },
+  "kagura": {
+    "season": "November – May (typical; high elevation)",
+    "hours": "About 8:00–16:30",
+    "nightSkiing": false,
+    "verticalM": 920,
+    "character": "Tashiro–Mitsumata–Kagura: long season, powder, and the Dragondola to Naeba.",
+    "passes": [
+      {
+        "nameEn": "Kagura / Mt.Naeba ticket",
+        "url": "https://www.princehotels.com/en/ski/kagura/"
+      }
+    ],
+    "access": "Shinkansen to Echigo-Yuzawa plus bus (~30 min). Linked to Naeba by Dragondola.",
+    "accessUrl": "https://www.princehotels.com/en/ski/kagura/"
+  },
+  "naeba": {
+    "season": "December – May (typical)",
+    "hours": "About 8:00–16:30; night skiing in season",
+    "nightSkiing": true,
+    "verticalM": 890,
+    "character": "Prince resort village, Dragondola link to Kagura, mixed-ability trails.",
+    "passes": [
+      {
+        "nameEn": "Naeba / Mt.Naeba ticket",
+        "url": "https://www.princehotels.com/en/ski/naeba/"
+      }
+    ],
+    "access": "Shinkansen to Echigo-Yuzawa plus bus (~40 min). Direct winter buses from Tokyo.",
+    "accessUrl": "https://www.princehotels.com/en/ski/naeba/"
+  },
+  "ishiuchi-maruyama": {
+    "season": "December – April (typical)",
+    "hours": "Day plus night skiing (check official hours)",
+    "nightSkiing": true,
+    "verticalM": 640,
+    "character": "Large Yuzawa-area hill with a gondola and a night-skiing scene.",
+    "passes": [
+      {
+        "nameEn": "Ishiuchi ticket",
+        "url": "https://ishiuchi.or.jp/en/winter/"
+      }
+    ],
+    "access": "Shinkansen to Echigo-Yuzawa plus bus (~15 min). Linked toward Gala / Yuzawa Kogen.",
+    "accessUrl": "https://ishiuchi.or.jp/en/winter/"
+  },
+  "maiko": {
+    "season": "December – April (typical)",
+    "hours": "Day plus night skiing (check official hours)",
+    "nightSkiing": true,
+    "verticalM": 430,
+    "character": "Family-oriented Minamiuonuma hill close to the Yuzawa corridor.",
+    "passes": [
+      {
+        "nameEn": "Maiko ticket",
+        "url": "https://www.maiko-resort.com/"
+      }
+    ],
+    "access": "Shinkansen to Echigo-Yuzawa plus bus (~20 min).",
+    "accessUrl": "https://www.maiko-resort.com/"
+  },
+  "happo-one": {
+    "season": "December – May (typical)",
+    "hours": "About 8:00–16:30; limited night skiing",
+    "nightSkiing": true,
+    "verticalM": 1130,
+    "character": "Hakuba’s flagship: World Cup pitch, long fall line, and village nightlife.",
+    "passes": [
+      {
+        "nameEn": "Happo ticket",
+        "url": "https://www.happo-one.jp/en/"
+      },
+      {
+        "nameEn": "Hakuba Valley pass",
+        "url": "https://www.hakubavalley.com/en/"
+      }
+    ],
+    "access": "Shinkansen to Nagano plus express bus (~1 hr). About 8 min from Hakuba Station by bus.",
+    "accessUrl": "https://www.happo-one.jp/en/"
+  },
+  "hakuba-47": {
+    "season": "December – April (typical)",
+    "hours": "About 8:00–16:30",
+    "nightSkiing": false,
+    "verticalM": 750,
+    "character": "Linked 47 and Goryu: trees, park, and a gondola above the valley.",
+    "passes": [
+      {
+        "nameEn": "Hakuba47 ticket",
+        "url": "https://www.hakuba47.co.jp/winter/en/"
+      },
+      {
+        "nameEn": "Hakuba Valley pass",
+        "url": "https://www.hakubavalley.com/en/"
+      }
+    ],
+    "access": "Same Hakuba bus corridor as Happo. About 10 min from Happo by car or valley shuttle.",
+    "accessUrl": "https://www.hakuba47.co.jp/winter/en/"
+  },
+  "tsugaike": {
+    "season": "December – May (typical)",
+    "hours": "About 8:00–16:30",
+    "nightSkiing": false,
+    "verticalM": 750,
+    "character": "Wide beginner-friendly plateau plus a ropeway toward the alpine.",
+    "passes": [
+      {
+        "nameEn": "Tsugaike ticket",
+        "url": "https://www.tsugaike.gr.jp/english/"
+      },
+      {
+        "nameEn": "Hakuba Valley pass",
+        "url": "https://www.hakubavalley.com/en/"
+      }
+    ],
+    "access": "Bus from Hakuba or Otari. About 20 min north of Happo.",
+    "accessUrl": "https://www.tsugaike.gr.jp/english/"
+  },
+  "iwatake": {
+    "season": "December – April (typical)",
+    "hours": "About 8:00–16:30",
+    "nightSkiing": false,
+    "verticalM": 770,
+    "character": "Sunny Hakuba face with a gondola and mixed family terrain.",
+    "passes": [
+      {
+        "nameEn": "Iwatake ticket",
+        "url": "https://www.iwatake-mountain-resort.com/en/winter/"
+      },
+      {
+        "nameEn": "Hakuba Valley pass",
+        "url": "https://www.hakubavalley.com/en/"
+      }
+    ],
+    "access": "Short bus from Hakuba Station. Next to Happo across the valley floor.",
+    "accessUrl": "https://www.iwatake-mountain-resort.com/en/winter/"
+  },
+  "nozawa-onsen": {
+    "season": "December – April (typical)",
+    "hours": "About 8:00–16:30; night skiing on selected runs",
+    "nightSkiing": true,
+    "verticalM": 920,
+    "character": "Village skiing above a historic onsen town. Strong snow and gates.",
+    "passes": [
+      {
+        "nameEn": "Nozawa ticket",
+        "url": "https://www.nozawaski.com/en/"
+      }
+    ],
+    "access": "Shinkansen to Iiyama plus bus (~30 min), or Nagano plus bus (~1 hr 10 min).",
+    "accessUrl": "https://www.nozawaski.com/en/"
+  },
+  "shiga-kogen": {
+    "season": "November – May (typical)",
+    "hours": "About 8:00–16:30",
+    "nightSkiing": false,
+    "verticalM": 800,
+    "character": "Japan’s largest linked ski area; high elevation and a long season.",
+    "passes": [
+      {
+        "nameEn": "Shiga Kogen ticket",
+        "url": "https://www.shigakogen.gr.jp/en/"
+      }
+    ],
+    "access": "Shinkansen to Nagano plus bus to Yamanouchi / Shiga (~1 hr).",
+    "accessUrl": "https://www.shigakogen.gr.jp/en/"
+  },
+  "madarao": {
+    "season": "December – April (typical)",
+    "hours": "About 8:30–16:30",
+    "nightSkiing": false,
+    "verticalM": 430,
+    "character": "Tree-skiing specialist on the Iiyama side, 100% natural snow.",
+    "passes": [
+      {
+        "nameEn": "Madarao ticket",
+        "url": "https://www.madarao.jp/ski/en/"
+      }
+    ],
+    "access": "Shinkansen to Iiyama plus taxi or bus. Car is simplest in a storm.",
+    "accessUrl": "https://www.madarao.jp/ski/en/"
+  },
+  "akakura-onsen": {
+    "season": "December – April (typical)",
+    "hours": "About 8:00–16:30",
+    "nightSkiing": false,
+    "verticalM": 800,
+    "character": "Myoko powder above an onsen village; gates and trees.",
+    "passes": [
+      {
+        "nameEn": "Akakura ticket",
+        "url": "https://www.akakura-ski.com/"
+      }
+    ],
+    "access": "Shinkansen to Joetsu-Myoko plus bus (~30 min).",
+    "accessUrl": "https://www.akakura-ski.com/"
+  },
+  "suginohara": {
+    "season": "December – April (typical)",
+    "hours": "About 8:00–16:30",
+    "nightSkiing": false,
+    "verticalM": 1050,
+    "character": "Long Myoko fall line and a big gondola; quieter than Akakura village.",
+    "passes": [
+      {
+        "nameEn": "Suginohara ticket",
+        "url": "https://www.myoko-suginohara.com/"
+      }
+    ],
+    "access": "About 15 min from Akakura by car. Joetsu-Myoko plus bus or taxi.",
+    "accessUrl": "https://www.myoko-suginohara.com/"
+  },
+  "kawaba": {
+    "season": "December – March (typical)",
+    "hours": "Day plus night skiing (check official hours)",
+    "nightSkiing": true,
+    "verticalM": 430,
+    "character": "Tokyo-side Gunma hill with a gondola and a strong night scene.",
+    "passes": [
+      {
+        "nameEn": "Kawaba ticket",
+        "url": "https://www.kawaba.co.jp/"
+      }
+    ],
+    "access": "About 2.5 hr from Tokyo by car. Bus from Jomo-Kogen (Joetsu Shinkansen).",
+    "accessUrl": "https://www.kawaba.co.jp/"
+  },
+  "kusatsu-onsen": {
+    "season": "December – March (typical)",
+    "hours": "About 8:00–16:30",
+    "nightSkiing": false,
+    "verticalM": 350,
+    "character": "Ski above Japan’s famous onsen town; compact and beginner-friendly.",
+    "passes": [
+      {
+        "nameEn": "Kusatsu ticket",
+        "url": "https://www.villa.co.jp/en/winter/"
+      }
+    ],
+    "access": "Limited express or bus from Naganohara-Kusatsuguchi. About 3 hr from Tokyo.",
+    "accessUrl": "https://www.villa.co.jp/en/winter/"
+  },
+  "tanigawadake": {
+    "season": "December – May (typical; high mountain)",
+    "hours": "Ropeway daytime (check official timetable)",
+    "nightSkiing": false,
+    "verticalM": 500,
+    "character": "Ropeway-served alpine snowfield. Weather-dependent; gates and touring.",
+    "passes": [
+      {
+        "nameEn": "Tenjindaira ticket",
+        "url": "https://www.tanigawadake-tenjin.com/"
+      }
+    ],
+    "access": "Joetsu Shinkansen to Jomo-Kogen or Minakami plus bus to the ropeway.",
+    "accessUrl": "https://www.tanigawadake-tenjin.com/"
+  },
+  "fujiten": {
+    "season": "December – March (typical)",
+    "hours": "Day plus night skiing (check official hours)",
+    "nightSkiing": true,
+    "verticalM": 270,
+    "character": "Fuji-side day trip from Tokyo. Compact, views of the volcano when clear.",
+    "passes": [
+      {
+        "nameEn": "Fujiten ticket",
+        "url": "https://fujiten.net/"
+      }
+    ],
+    "access": "About 2 hr from Tokyo by car via the Chuo. Bus from Kawaguchiko / Fuji-area stations.",
+    "accessUrl": "https://fujiten.net/"
+  }
+}

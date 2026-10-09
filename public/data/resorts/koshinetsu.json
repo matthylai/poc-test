@@ -1,0 +1,706 @@
+[
+  {
+    "slug": "gala-yuzawa",
+    "nameEn": "Gala Yuzawa",
+    "nameJa": "ガーラ湯沢",
+    "nameZhTw": "加拉湯澤",
+    "region": "koshinetsu",
+    "area": "yuzawa",
+    "locationEn": "Yuzawa, Niigata",
+    "tags": [
+      "beginner-friendly",
+      "public-transport",
+      "night-skiing",
+      "tokyo-easy"
+    ],
+    "officialUrl": "https://gala.co.jp/en/winter/",
+    "liftStatusUrl": "https://gala.co.jp/en/winter/",
+    "trailMapPageUrl": "https://gala.co.jp/en/winter/course/",
+    "webcamPageUrl": "https://gala.co.jp/en/winter/",
+    "lat": 36.947,
+    "lng": 138.803,
+    "lifts": [
+      {
+        "nameEn": "Landau Ropeway",
+        "nameJa": "ランダウ",
+        "kind": "other"
+      },
+      {
+        "nameEn": "Barouche Chair",
+        "nameJa": "バローチェ",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Cabriolet Chair",
+        "nameJa": "カブリオレ",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Victoria Chair",
+        "nameJa": "ビクトリア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "kagura",
+    "nameEn": "Kagura",
+    "nameJa": "かぐら",
+    "nameZhTw": "神樂",
+    "region": "koshinetsu",
+    "area": "yuzawa",
+    "locationEn": "Yuzawa, Niigata",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "tokyo-easy"
+    ],
+    "officialUrl": "https://www.princehotels.com/en/ski/kagura/",
+    "liftStatusUrl": "https://www.princehotels.com/en/ski/kagura/",
+    "trailMapPageUrl": "https://www.princehotels.com/en/ski/kagura/",
+    "webcamPageUrl": "https://www.princehotels.com/en/ski/kagura/",
+    "lat": 36.86,
+    "lng": 138.78,
+    "lifts": [
+      {
+        "nameEn": "Tashiro Ropeway",
+        "nameJa": "田代ロープウェイ",
+        "kind": "other"
+      },
+      {
+        "nameEn": "Mitsumata Gondola",
+        "nameJa": "三俣ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Kagura Gondola",
+        "nameJa": "かぐらゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Dragondola",
+        "nameJa": "ドラゴンドラ",
+        "kind": "gondola"
+      }
+    ]
+  },
+  {
+    "slug": "naeba",
+    "nameEn": "Naeba",
+    "nameJa": "苗場",
+    "nameZhTw": "苗場",
+    "region": "koshinetsu",
+    "area": "yuzawa",
+    "locationEn": "Yuzawa, Niigata",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "night-skiing",
+      "tokyo-easy"
+    ],
+    "officialUrl": "https://www.princehotels.com/en/ski/naeba/",
+    "liftStatusUrl": "https://www.princehotels.com/en/ski/naeba/",
+    "trailMapPageUrl": "https://www.princehotels.com/en/ski/naeba/",
+    "webcamPageUrl": "https://www.princehotels.com/en/ski/naeba/",
+    "lat": 36.793,
+    "lng": 138.783,
+    "lifts": [
+      {
+        "nameEn": "Prince Gondola",
+        "nameJa": "プリンスゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Dragondola",
+        "nameJa": "ドラゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Naeba Quad",
+        "nameJa": "苗場クワッド",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "ishiuchi-maruyama",
+    "nameEn": "Ishiuchi Maruyama",
+    "nameJa": "石打丸山",
+    "nameZhTw": "石打丸山",
+    "region": "koshinetsu",
+    "area": "yuzawa",
+    "locationEn": "Minamiuonuma, Niigata",
+    "tags": [
+      "beginner-friendly",
+      "public-transport",
+      "night-skiing",
+      "tokyo-easy"
+    ],
+    "officialUrl": "https://ishiuchi.or.jp/en/winter/",
+    "liftStatusUrl": "https://ishiuchi.or.jp/en/winter/",
+    "trailMapPageUrl": "https://ishiuchi.or.jp/en/winter/",
+    "webcamPageUrl": "https://ishiuchi.or.jp/en/winter/",
+    "lat": 36.978,
+    "lng": 138.808,
+    "lifts": [
+      {
+        "nameEn": "Maruyama Gondola",
+        "nameJa": "丸山ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "First Quad",
+        "nameJa": "第1クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Second Pair",
+        "nameJa": "第2ペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "maiko",
+    "nameEn": "Maiko Snow Resort",
+    "nameJa": "舞子スノーリゾート",
+    "nameZhTw": "舞子滑雪度假村",
+    "region": "koshinetsu",
+    "area": "yuzawa",
+    "locationEn": "Minamiuonuma, Niigata",
+    "tags": [
+      "beginner-friendly",
+      "public-transport",
+      "night-skiing",
+      "tokyo-easy"
+    ],
+    "officialUrl": "https://www.maiko-resort.com/",
+    "liftStatusUrl": "https://www.maiko-resort.com/",
+    "trailMapPageUrl": "https://www.maiko-resort.com/",
+    "webcamPageUrl": "https://www.maiko-resort.com/",
+    "lat": 36.985,
+    "lng": 138.845,
+    "lifts": [
+      {
+        "nameEn": "Maiko Gondola",
+        "nameJa": "舞子ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "High-speed Quad",
+        "nameJa": "高速クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Family Pair",
+        "nameJa": "ファミリーペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "happo-one",
+    "nameEn": "Happo-One",
+    "nameJa": "八方尾根",
+    "nameZhTw": "八方尾根",
+    "region": "koshinetsu",
+    "area": "hakuba",
+    "locationEn": "Hakuba, Nagano",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "night-skiing",
+      "tokyo-easy",
+      "english-friendly"
+    ],
+    "officialUrl": "https://www.happo-one.jp/en/",
+    "liftStatusUrl": "https://www.happo-one.jp/en/",
+    "trailMapPageUrl": "https://www.happo-one.jp/en/slope/",
+    "webcamPageUrl": "https://www.happo-one.jp/en/",
+    "lat": 36.702,
+    "lng": 137.837,
+    "lifts": [
+      {
+        "nameEn": "Adam Gondola",
+        "nameJa": "アダムゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Sahara Quad",
+        "nameJa": "サハラクワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Kurobishi Quad",
+        "nameJa": "黒菱クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Usagidaira Gondola",
+        "nameJa": "兎平ゴンドラ",
+        "kind": "gondola"
+      }
+    ]
+  },
+  {
+    "slug": "hakuba-47",
+    "nameEn": "Hakuba 47 / Goryu",
+    "nameJa": "白馬47 / 五竜",
+    "nameZhTw": "白馬47 / 五龍",
+    "region": "koshinetsu",
+    "area": "hakuba",
+    "locationEn": "Hakuba, Nagano",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "tokyo-easy",
+      "english-friendly"
+    ],
+    "officialUrl": "https://www.hakuba47.co.jp/winter/en/",
+    "liftStatusUrl": "https://www.hakuba47.co.jp/winter/en/",
+    "trailMapPageUrl": "https://www.hakuba47.co.jp/winter/en/",
+    "webcamPageUrl": "https://www.hakuba47.co.jp/winter/en/",
+    "lat": 36.698,
+    "lng": 137.848,
+    "lifts": [
+      {
+        "nameEn": "47 Gondola",
+        "nameJa": "47ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Toomi Quad",
+        "nameJa": "遠見クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Goryu Gondola",
+        "nameJa": "五竜ゴンドラ",
+        "kind": "gondola"
+      }
+    ]
+  },
+  {
+    "slug": "tsugaike",
+    "nameEn": "Tsugaike",
+    "nameJa": "つがいけ",
+    "nameZhTw": "栂池",
+    "region": "koshinetsu",
+    "area": "hakuba",
+    "locationEn": "Otari, Nagano",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "tokyo-easy"
+    ],
+    "officialUrl": "https://www.tsugaike.gr.jp/english/",
+    "liftStatusUrl": "https://www.tsugaike.gr.jp/snow",
+    "trailMapPageUrl": "https://www.tsugaike.gr.jp/english/",
+    "webcamPageUrl": "https://www.tsugaike.gr.jp/snow",
+    "lat": 36.758,
+    "lng": 137.854,
+    "lifts": [
+      {
+        "nameEn": "Tsugaike Gondola",
+        "nameJa": "つがいけゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Tsugaike Ropeway",
+        "nameJa": "つがいけロープウェイ",
+        "kind": "other"
+      },
+      {
+        "nameEn": "Panorama Quad",
+        "nameJa": "パノラマクワッド",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "iwatake",
+    "nameEn": "Hakuba Iwatake",
+    "nameJa": "白馬岩岳",
+    "nameZhTw": "白馬岩岳",
+    "region": "koshinetsu",
+    "area": "hakuba",
+    "locationEn": "Hakuba, Nagano",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "public-transport",
+      "tokyo-easy"
+    ],
+    "officialUrl": "https://www.iwatake-mountain-resort.com/en/winter/",
+    "liftStatusUrl": "https://www.iwatake-mountain-resort.com/en/winter/",
+    "trailMapPageUrl": "https://www.iwatake-mountain-resort.com/en/winter/",
+    "webcamPageUrl": "https://www.iwatake-mountain-resort.com/en/winter/",
+    "lat": 36.707,
+    "lng": 137.861,
+    "lifts": [
+      {
+        "nameEn": "Iwatake Gondola",
+        "nameJa": "岩岳ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Panorama Quad",
+        "nameJa": "パノラマクワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Family Pair",
+        "nameJa": "ファミリーペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "nozawa-onsen",
+    "nameEn": "Nozawa Onsen",
+    "nameJa": "野沢温泉",
+    "nameZhTw": "野澤溫泉",
+    "region": "koshinetsu",
+    "area": "nozawa",
+    "locationEn": "Nozawaonsen, Nagano",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "night-skiing"
+    ],
+    "officialUrl": "https://www.nozawaski.com/en/",
+    "liftStatusUrl": "https://www.nozawaski.com/en/",
+    "trailMapPageUrl": "https://www.nozawaski.com/en/the-mountain/trail-map/",
+    "webcamPageUrl": "https://www.nozawaski.com/en/",
+    "lat": 36.922,
+    "lng": 138.456,
+    "lifts": [
+      {
+        "nameEn": "Nagasaka Gondola",
+        "nameJa": "長坂ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Yamabiko Gondola",
+        "nameJa": "山彦ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Paradise Pair",
+        "nameJa": "パラダイスペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Uenotaira Quad",
+        "nameJa": "上ノ平クワッド",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "shiga-kogen",
+    "nameEn": "Shiga Kogen",
+    "nameJa": "志賀高原",
+    "nameZhTw": "志賀高原",
+    "region": "koshinetsu",
+    "area": "shiga",
+    "locationEn": "Yamanouchi, Nagano",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "quieter"
+    ],
+    "officialUrl": "https://www.shigakogen.gr.jp/en/",
+    "liftStatusUrl": "https://www.shigakogen.gr.jp/en/",
+    "trailMapPageUrl": "https://www.shigakogen.gr.jp/en/",
+    "webcamPageUrl": "https://www.shigakogen.gr.jp/en/",
+    "lat": 36.716,
+    "lng": 138.506,
+    "lifts": [
+      {
+        "nameEn": "Yakebitai Gondola",
+        "nameJa": "焼額山ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Higashitateyama Pair",
+        "nameJa": "東館山ペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Okushiga Gondola",
+        "nameJa": "奥志賀ゴンドラ",
+        "kind": "gondola"
+      }
+    ]
+  },
+  {
+    "slug": "madarao",
+    "nameEn": "Madarao",
+    "nameJa": "斑尾",
+    "nameZhTw": "斑尾",
+    "region": "koshinetsu",
+    "area": "madarao",
+    "locationEn": "Iiyama, Nagano",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "quieter"
+    ],
+    "officialUrl": "https://www.madarao.jp/ski/en/",
+    "liftStatusUrl": "https://www.madarao.jp/ski",
+    "trailMapPageUrl": "https://www.madarao.jp/ski/en/",
+    "webcamPageUrl": "https://www.madarao.jp/ski",
+    "lat": 36.845,
+    "lng": 138.283,
+    "lifts": [
+      {
+        "nameEn": "Super Quad",
+        "nameJa": "スーパークワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Second Quad",
+        "nameJa": "第2クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "First Pair",
+        "nameJa": "第1ペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "akakura-onsen",
+    "nameEn": "Akakura Onsen",
+    "nameJa": "赤倉温泉",
+    "nameZhTw": "赤倉溫泉",
+    "region": "koshinetsu",
+    "area": "myoko",
+    "locationEn": "Myoko, Niigata",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "public-transport",
+      "quieter"
+    ],
+    "officialUrl": "https://www.akakura-ski.com/",
+    "liftStatusUrl": "https://www.akakura-ski.com/",
+    "trailMapPageUrl": "https://www.akakura-ski.com/",
+    "webcamPageUrl": "https://www.akakura-ski.com/",
+    "lat": 36.894,
+    "lng": 138.155,
+    "lifts": [
+      {
+        "nameEn": "Akakura Gondola",
+        "nameJa": "赤倉ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "First Quad",
+        "nameJa": "第1クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Kanko Pair",
+        "nameJa": "観光ペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "suginohara",
+    "nameEn": "Myoko Suginohara",
+    "nameJa": "妙高杉ノ原",
+    "nameZhTw": "妙高杉之原",
+    "region": "koshinetsu",
+    "area": "myoko",
+    "locationEn": "Myoko, Niigata",
+    "tags": [
+      "beginner-friendly",
+      "powder",
+      "gates",
+      "quieter"
+    ],
+    "officialUrl": "https://www.myoko-suginohara.com/",
+    "liftStatusUrl": "https://www.myoko-suginohara.com/",
+    "trailMapPageUrl": "https://www.myoko-suginohara.com/",
+    "webcamPageUrl": "https://www.myoko-suginohara.com/",
+    "lat": 36.877,
+    "lng": 138.137,
+    "lifts": [
+      {
+        "nameEn": "Suginohara Gondola",
+        "nameJa": "杉ノ原ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Panorama Pair",
+        "nameJa": "パノラマペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Family Pair",
+        "nameJa": "ファミリーペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "kawaba",
+    "nameEn": "Kawaba",
+    "nameJa": "川場",
+    "nameZhTw": "川場",
+    "region": "koshinetsu",
+    "area": "gunma",
+    "locationEn": "Kawaba, Gunma",
+    "tags": [
+      "beginner-friendly",
+      "public-transport",
+      "night-skiing"
+    ],
+    "officialUrl": "https://www.kawaba.co.jp/",
+    "liftStatusUrl": "https://www.kawaba.co.jp/",
+    "trailMapPageUrl": "https://www.kawaba.co.jp/",
+    "webcamPageUrl": "https://www.kawaba.co.jp/",
+    "lat": 36.746,
+    "lng": 139.106,
+    "lifts": [
+      {
+        "nameEn": "Kawaba Gondola",
+        "nameJa": "川場ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "First Quad",
+        "nameJa": "第1クワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Second Pair",
+        "nameJa": "第2ペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "kusatsu-onsen",
+    "nameEn": "Kusatsu Onsen",
+    "nameJa": "草津温泉",
+    "nameZhTw": "草津溫泉",
+    "region": "koshinetsu",
+    "area": "gunma",
+    "locationEn": "Kusatsu, Gunma",
+    "tags": [
+      "beginner-friendly",
+      "public-transport"
+    ],
+    "officialUrl": "https://www.villa.co.jp/en/winter/",
+    "liftStatusUrl": "https://www.villa.co.jp/en/winter/",
+    "trailMapPageUrl": "https://www.villa.co.jp/en/winter/",
+    "webcamPageUrl": "https://www.villa.co.jp/en/winter/",
+    "lat": 36.623,
+    "lng": 138.596,
+    "lifts": [
+      {
+        "nameEn": "Kusatsu Gondola",
+        "nameJa": "草津ゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Shirane Pair",
+        "nameJa": "白根ペア",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Family Pair",
+        "nameJa": "ファミリーペア",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "tanigawadake",
+    "nameEn": "Tanigawadake Tenjindaira",
+    "nameJa": "谷川岳天神平",
+    "nameZhTw": "谷川岳天神平",
+    "region": "koshinetsu",
+    "area": "gunma",
+    "locationEn": "Minakami, Gunma",
+    "tags": [
+      "powder",
+      "gates",
+      "public-transport"
+    ],
+    "officialUrl": "https://www.tanigawadake-tenjin.com/",
+    "liftStatusUrl": "https://www.tanigawadake-tenjin.com/",
+    "trailMapPageUrl": "https://www.tanigawadake-tenjin.com/",
+    "webcamPageUrl": "https://www.tanigawadake-tenjin.com/",
+    "lat": 36.817,
+    "lng": 138.929,
+    "lifts": [
+      {
+        "nameEn": "Tanigawadake Ropeway",
+        "nameJa": "谷川岳ロープウェイ",
+        "kind": "other"
+      },
+      {
+        "nameEn": "Tenjin Chair",
+        "nameJa": "天神リフト",
+        "kind": "chair"
+      }
+    ]
+  },
+  {
+    "slug": "fujiten",
+    "nameEn": "Fujiten Snow Resort",
+    "nameJa": "ふじてんスノーリゾート",
+    "nameZhTw": "富士天滑雪度假村",
+    "region": "koshinetsu",
+    "area": "fuji",
+    "locationEn": "Narusawa, Yamanashi",
+    "tags": [
+      "beginner-friendly",
+      "public-transport",
+      "night-skiing"
+    ],
+    "officialUrl": "https://fujiten.net/",
+    "liftStatusUrl": "https://fujiten.net/",
+    "trailMapPageUrl": "https://fujiten.net/",
+    "webcamPageUrl": "https://fujiten.net/",
+    "lat": 35.428,
+    "lng": 138.745,
+    "lifts": [
+      {
+        "nameEn": "Fujiten Gondola",
+        "nameJa": "ふじてんゴンドラ",
+        "kind": "gondola"
+      },
+      {
+        "nameEn": "Panorama Quad",
+        "nameJa": "パノラマクワッド",
+        "kind": "chair"
+      },
+      {
+        "nameEn": "Family Pair",
+        "nameJa": "ファミリーペア",
+        "kind": "chair"
+      }
+    ]
+  }
+]

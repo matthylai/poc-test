@@ -1,0 +1,530 @@
+[
+  {
+    "id": "seicomart-hirafu",
+    "nameEn": "Seicomart Hirafu",
+    "nameJa": "セイコーマート ひらふ店",
+    "kind": "convenience",
+    "lat": 42.85913,
+    "lng": 140.7049
+  },
+  {
+    "id": "lawson-hirafu",
+    "nameEn": "Lawson Niseko Hirafu",
+    "nameJa": "ローソン ニセコひらふ店",
+    "kind": "convenience",
+    "lat": 42.86086,
+    "lng": 140.7076
+  },
+  {
+    "id": "7eleven-hirafu",
+    "nameEn": "7-Eleven Kutchan-Hirafu",
+    "nameJa": "セブン-イレブン 倶知安ひらふ店",
+    "kind": "convenience",
+    "lat": 42.8668,
+    "lng": 140.7155
+  },
+  {
+    "id": "7eleven-niseko",
+    "nameEn": "7-Eleven Niseko",
+    "nameJa": "セブン-イレブン ニセコ店",
+    "kind": "convenience",
+    "lat": 42.8285,
+    "lng": 140.688
+  },
+  {
+    "id": "seicomart-niseko",
+    "nameEn": "Seicomart Niseko",
+    "nameJa": "セイコーマート ニセコ店",
+    "kind": "convenience",
+    "lat": 42.80193,
+    "lng": 140.69136
+  },
+  {
+    "id": "seicomart-kutchan-takasago",
+    "nameEn": "Seicomart Kutchan Takasago",
+    "nameJa": "セイコーマート 倶知安高砂店",
+    "kind": "convenience",
+    "lat": 42.88047,
+    "lng": 140.75038
+  },
+  {
+    "id": "maxvalu-kutchan",
+    "nameEn": "MaxValu Kutchan",
+    "nameJa": "マックスバリュ 倶知安店",
+    "kind": "supermarket",
+    "lat": 42.88902,
+    "lng": 140.75041
+  },
+  {
+    "id": "seicomart-rusutsu",
+    "nameEn": "Seicomart Rusutsu",
+    "nameJa": "セイコーマート ルスツ店",
+    "kind": "convenience",
+    "lat": 42.7378,
+    "lng": 140.8948
+  },
+  {
+    "id": "seicomart-jozankei",
+    "nameEn": "Seicomart Jozankei",
+    "nameJa": "セイコーマート 定山渓店",
+    "kind": "convenience",
+    "lat": 42.96485,
+    "lng": 141.1658
+  },
+  {
+    "id": "lawson-teine-inaho",
+    "nameEn": "Lawson Teine Inaho",
+    "nameJa": "ローソン 手稲稲穂店",
+    "kind": "convenience",
+    "lat": 43.1278,
+    "lng": 141.214
+  },
+  {
+    "id": "7eleven-teine",
+    "nameEn": "7-Eleven Teine Honcho",
+    "nameJa": "セブン-イレブン 手稲本町店",
+    "kind": "convenience",
+    "lat": 43.11881,
+    "lng": 141.2386
+  },
+  {
+    "id": "lawson-teine-maeda",
+    "nameEn": "Lawson Teine Maeda",
+    "nameJa": "ローソン 手稲前田店",
+    "kind": "convenience",
+    "lat": 43.12998,
+    "lng": 141.25172
+  },
+  {
+    "id": "aeon-teine",
+    "nameEn": "AEON Teine",
+    "nameJa": "イオン 手稲店",
+    "kind": "supermarket",
+    "lat": 43.12066,
+    "lng": 141.24514
+  },
+  {
+    "id": "aeon-otaru",
+    "nameEn": "AEON Otaru",
+    "nameJa": "イオン 小樽店",
+    "kind": "supermarket",
+    "lat": 43.18259,
+    "lng": 141.02511
+  },
+  {
+    "id": "maxvalu-otaru-temiya",
+    "nameEn": "MaxValu Otaru Temiya",
+    "nameJa": "マックスバリュ 手宮店",
+    "kind": "supermarket",
+    "lat": 43.20964,
+    "lng": 141.00005
+  },
+  {
+    "id": "seicomart-furano",
+    "nameEn": "Seicomart Furano",
+    "nameJa": "セイコーマート 富良野店",
+    "kind": "convenience",
+    "lat": 43.34835,
+    "lng": 142.38507
+  },
+  {
+    "id": "lawson-furano",
+    "nameEn": "Lawson Furano",
+    "nameJa": "ローソン 富良野店",
+    "kind": "convenience",
+    "lat": 43.33722,
+    "lng": 142.39559
+  },
+  {
+    "id": "7eleven-kitanomine",
+    "nameEn": "7-Eleven Kitanomine",
+    "nameJa": "セブン-イレブン 北の峰店",
+    "kind": "convenience",
+    "lat": 43.3415,
+    "lng": 142.382
+  },
+  {
+    "id": "7eleven-furano-midori",
+    "nameEn": "7-Eleven Furano Midorimachi",
+    "nameJa": "セブン-イレブン 富良野緑町店",
+    "kind": "convenience",
+    "lat": 43.3515,
+    "lng": 142.391
+  },
+  {
+    "id": "ralse-furano",
+    "nameEn": "Ralse Furano",
+    "nameJa": "ラルズ 富良野店",
+    "kind": "supermarket",
+    "lat": 43.3445,
+    "lng": 142.396
+  },
+  {
+    "id": "seicomart-shintoku",
+    "nameEn": "Seicomart Shintoku",
+    "nameJa": "セイコーマート 新得店",
+    "kind": "convenience",
+    "lat": 43.07767,
+    "lng": 142.82748
+  },
+  {
+    "id": "acoop-shintoku",
+    "nameEn": "A-Coop Shintoku",
+    "nameJa": "Aコープ 新得店",
+    "kind": "supermarket",
+    "lat": 43.0754,
+    "lng": 142.8389
+  },
+  {
+    "id": "seicomart-kamui",
+    "nameEn": "Seicomart Asahikawa Kamui",
+    "nameJa": "セイコーマート 神居店",
+    "kind": "convenience",
+    "lat": 43.75772,
+    "lng": 142.33035
+  },
+  {
+    "id": "7eleven-kamui",
+    "nameEn": "7-Eleven Asahikawa Kamui",
+    "nameJa": "セブン-イレブン 神居店",
+    "kind": "convenience",
+    "lat": 43.76725,
+    "lng": 142.33018
+  },
+  {
+    "id": "aeon-asahikawa",
+    "nameEn": "AEON Mall Asahikawa",
+    "nameJa": "イオンモール旭川駅前",
+    "kind": "supermarket",
+    "lat": 43.76379,
+    "lng": 142.35736
+  },
+  {
+    "id": "seicomart-higashikawa",
+    "nameEn": "Seicomart Higashikawa",
+    "nameJa": "セイコーマート 東川店",
+    "kind": "convenience",
+    "lat": 43.70201,
+    "lng": 142.49903
+  },
+  {
+    "id": "7eleven-yuzawa",
+    "nameEn": "7-Eleven Echigo-Yuzawa",
+    "nameJa": "セブン-イレブン 越後湯沢駅前店",
+    "kind": "convenience",
+    "lat": 36.936,
+    "lng": 138.806
+  },
+  {
+    "id": "lawson-yuzawa",
+    "nameEn": "Lawson Yuzawa",
+    "nameJa": "ローソン 湯沢店",
+    "kind": "convenience",
+    "lat": 36.938,
+    "lng": 138.81
+  },
+  {
+    "id": "aeon-yuzawa",
+    "nameEn": "AEON Yuzawa",
+    "nameJa": "イオン湯沢店",
+    "kind": "supermarket",
+    "lat": 36.94,
+    "lng": 138.812
+  },
+  {
+    "id": "7eleven-hakuba",
+    "nameEn": "7-Eleven Hakuba Happo",
+    "nameJa": "セブン-イレブン 白馬八方店",
+    "kind": "convenience",
+    "lat": 36.698,
+    "lng": 137.86
+  },
+  {
+    "id": "lawson-hakuba",
+    "nameEn": "Lawson Hakuba",
+    "nameJa": "ローソン 白馬店",
+    "kind": "convenience",
+    "lat": 36.695,
+    "lng": 137.862
+  },
+  {
+    "id": "maxvalu-hakuba",
+    "nameEn": "MaxValu Hakuba",
+    "nameJa": "マックスバリュ 白馬店",
+    "kind": "supermarket",
+    "lat": 36.694,
+    "lng": 137.858
+  },
+  {
+    "id": "7eleven-nozawa",
+    "nameEn": "7-Eleven Nozawa Onsen",
+    "nameJa": "セブン-イレブン 野沢温泉店",
+    "kind": "convenience",
+    "lat": 36.9225,
+    "lng": 138.44
+  },
+  {
+    "id": "lawson-nozawa",
+    "nameEn": "Lawson Nozawa",
+    "nameJa": "ローソン 野沢温泉店",
+    "kind": "convenience",
+    "lat": 36.92,
+    "lng": 138.442
+  },
+  {
+    "id": "acoop-nozawa",
+    "nameEn": "A-Coop Nozawa",
+    "nameJa": "Aコープ 野沢店",
+    "kind": "supermarket",
+    "lat": 36.918,
+    "lng": 138.438
+  },
+  {
+    "id": "7eleven-yamanouchi",
+    "nameEn": "7-Eleven Yamanouchi",
+    "nameJa": "セブン-イレブン 山ノ内店",
+    "kind": "convenience",
+    "lat": 36.741,
+    "lng": 138.412
+  },
+  {
+    "id": "lawson-shiga",
+    "nameEn": "Lawson Shiga Kogen",
+    "nameJa": "ローソン 志賀高原店",
+    "kind": "convenience",
+    "lat": 36.72,
+    "lng": 138.5
+  },
+  {
+    "id": "aeon-nakano",
+    "nameEn": "AEON Nakano",
+    "nameJa": "イオン中野店",
+    "kind": "supermarket",
+    "lat": 36.745,
+    "lng": 138.369
+  },
+  {
+    "id": "7eleven-iiyama",
+    "nameEn": "7-Eleven Iiyama",
+    "nameJa": "セブン-イレブン 飯山店",
+    "kind": "convenience",
+    "lat": 36.852,
+    "lng": 138.365
+  },
+  {
+    "id": "lawson-madarao",
+    "nameEn": "Lawson Madarao",
+    "nameJa": "ローソン 斑尾店",
+    "kind": "convenience",
+    "lat": 36.848,
+    "lng": 138.29
+  },
+  {
+    "id": "aeon-iiyama",
+    "nameEn": "AEON Iiyama",
+    "nameJa": "イオン飯山店",
+    "kind": "supermarket",
+    "lat": 36.855,
+    "lng": 138.365
+  },
+  {
+    "id": "7eleven-myoko",
+    "nameEn": "7-Eleven Myoko Kogen",
+    "nameJa": "セブン-イレブン 妙高温泉店",
+    "kind": "convenience",
+    "lat": 36.886,
+    "lng": 138.162
+  },
+  {
+    "id": "lawson-akakura",
+    "nameEn": "Lawson Akakura",
+    "nameJa": "ローソン 赤倉店",
+    "kind": "convenience",
+    "lat": 36.892,
+    "lng": 138.158
+  },
+  {
+    "id": "aeon-myoko",
+    "nameEn": "AEON Myoko",
+    "nameJa": "イオン妙高店",
+    "kind": "supermarket",
+    "lat": 36.89,
+    "lng": 138.25
+  },
+  {
+    "id": "7eleven-minakami",
+    "nameEn": "7-Eleven Minakami",
+    "nameJa": "セブン-イレブン みなかみ店",
+    "kind": "convenience",
+    "lat": 36.778,
+    "lng": 138.999
+  },
+  {
+    "id": "lawson-kawaba",
+    "nameEn": "Lawson Kawaba",
+    "nameJa": "ローソン 川場店",
+    "kind": "convenience",
+    "lat": 36.747,
+    "lng": 139.11
+  },
+  {
+    "id": "aeon-numata",
+    "nameEn": "AEON Numata",
+    "nameJa": "イオン沼田店",
+    "kind": "supermarket",
+    "lat": 36.646,
+    "lng": 139.044
+  },
+  {
+    "id": "7eleven-kusatsu",
+    "nameEn": "7-Eleven Kusatsu",
+    "nameJa": "セブン-イレブン 草津店",
+    "kind": "convenience",
+    "lat": 36.621,
+    "lng": 138.596
+  },
+  {
+    "id": "lawson-kusatsu",
+    "nameEn": "Lawson Kusatsu",
+    "nameJa": "ローソン 草津温泉店",
+    "kind": "convenience",
+    "lat": 36.622,
+    "lng": 138.598
+  },
+  {
+    "id": "seiyu-naganohara",
+    "nameEn": "Seiyu Naganohara",
+    "nameJa": "西友 長野原店",
+    "kind": "supermarket",
+    "lat": 36.546,
+    "lng": 138.637
+  },
+  {
+    "id": "7eleven-narusawa",
+    "nameEn": "7-Eleven Narusawa",
+    "nameJa": "セブン-イレブン 鳴沢店",
+    "kind": "convenience",
+    "lat": 35.435,
+    "lng": 138.74
+  },
+  {
+    "id": "lawson-kawaguchiko",
+    "nameEn": "Lawson Kawaguchiko",
+    "nameJa": "ローソン 河口湖店",
+    "kind": "convenience",
+    "lat": 35.497,
+    "lng": 138.769
+  },
+  {
+    "id": "maxvalu-fujiyoshida",
+    "nameEn": "MaxValu Fujiyoshida",
+    "nameJa": "マックスバリュ 富士吉田店",
+    "kind": "supermarket",
+    "lat": 35.487,
+    "lng": 138.808
+  },
+  {
+    "id": "7eleven-appi",
+    "nameEn": "7-Eleven Appi",
+    "nameJa": "セブン-イレブン 安比店",
+    "kind": "convenience",
+    "lat": 40.005,
+    "lng": 140.94
+  },
+  {
+    "id": "lawson-hachimantai",
+    "nameEn": "Lawson Hachimantai",
+    "nameJa": "ローソン 八幡平店",
+    "kind": "convenience",
+    "lat": 39.957,
+    "lng": 141.071
+  },
+  {
+    "id": "aeon-morioka",
+    "nameEn": "AEON Mall Morioka",
+    "nameJa": "イオンモール盛岡",
+    "kind": "supermarket",
+    "lat": 39.701,
+    "lng": 141.133
+  },
+  {
+    "id": "appi-village-shop",
+    "nameEn": "Appi village supermarket",
+    "nameJa": "安比高原ショップ",
+    "kind": "supermarket",
+    "lat": 40.001,
+    "lng": 140.941
+  },
+  {
+    "id": "7eleven-zao",
+    "nameEn": "7-Eleven Zao Onsen",
+    "nameJa": "セブン-イレブン 蔵王温泉店",
+    "kind": "convenience",
+    "lat": 38.166,
+    "lng": 140.401
+  },
+  {
+    "id": "lawson-zao",
+    "nameEn": "Lawson Zao",
+    "nameJa": "ローソン 蔵王店",
+    "kind": "convenience",
+    "lat": 38.17,
+    "lng": 140.4
+  },
+  {
+    "id": "aeon-yamagata",
+    "nameEn": "AEON Yamagata",
+    "nameJa": "イオン山形店",
+    "kind": "supermarket",
+    "lat": 38.255,
+    "lng": 140.34
+  },
+  {
+    "id": "7eleven-bandai",
+    "nameEn": "7-Eleven Bandai",
+    "nameJa": "セブン-イレブン 磐梯店",
+    "kind": "convenience",
+    "lat": 37.6,
+    "lng": 139.99
+  },
+  {
+    "id": "lawson-inawashiro",
+    "nameEn": "Lawson Inawashiro",
+    "nameJa": "ローソン 猪苗代店",
+    "kind": "convenience",
+    "lat": 37.555,
+    "lng": 140.105
+  },
+  {
+    "id": "aeon-aizuwakamatsu",
+    "nameEn": "AEON Aizuwakamatsu",
+    "nameJa": "イオン会津若松店",
+    "kind": "supermarket",
+    "lat": 37.495,
+    "lng": 139.93
+  },
+  {
+    "id": "7eleven-kitakami",
+    "nameEn": "7-Eleven Kitakami",
+    "nameJa": "セブン-イレブン 北上店",
+    "kind": "convenience",
+    "lat": 39.286,
+    "lng": 141.113
+  },
+  {
+    "id": "lawson-geto",
+    "nameEn": "Lawson Geto",
+    "nameJa": "ローソン 夏油店",
+    "kind": "convenience",
+    "lat": 39.21,
+    "lng": 140.9
+  },
+  {
+    "id": "aeon-kitakami",
+    "nameEn": "AEON Kitakami",
+    "nameJa": "イオン北上店",
+    "kind": "supermarket",
+    "lat": 39.289,
+    "lng": 141.113
+  }
+]
