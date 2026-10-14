@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SignInLink } from "@/components/sign-in-link";
 import { getViewer } from "@/lib/viewer";
 
 export async function SiteHeader() {
@@ -23,9 +24,7 @@ export async function SiteHeader() {
               </button>
             </form>
           ) : (
-            <Link href="/login" className="underline">
-              Sign in
-            </Link>
+            <SignInLink />
           )}
         </nav>
       </div>

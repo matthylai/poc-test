@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { formatAverage, placeLabel, type ResortCard } from "@/lib/resort";
 import { publicEnv } from "@/lib/env";
 import { createServerSupabase } from "@/lib/supabase/server";
@@ -48,7 +47,7 @@ export default async function HomePage() {
       <ul className="flex flex-col gap-2">
         {resorts.map((resort) => (
           <li key={resort.id}>
-            <Link
+            <a
               href={`/resorts/${resort.slug}`}
               className="flex items-baseline justify-between gap-4 rounded-md border border-zinc-200 px-3 py-3"
             >
@@ -63,7 +62,7 @@ export default async function HomePage() {
                   ? `${formatAverage(resort.overall)} · ${resort.review_count}`
                   : "No visits"}
               </span>
-            </Link>
+            </a>
           </li>
         ))}
       </ul>

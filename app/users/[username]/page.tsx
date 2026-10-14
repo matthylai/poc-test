@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { publicEnv } from "@/lib/env";
 import { createServerSupabase } from "@/lib/supabase/server";
@@ -56,7 +55,7 @@ export default async function UserPage({
           }
           return (
             <li key={visit.id}>
-              <Link
+              <a
                 href={`/resorts/${resort.slug}`}
                 className="flex items-baseline justify-between gap-4 rounded-md border border-zinc-200 px-3 py-3"
               >
@@ -64,7 +63,7 @@ export default async function UserPage({
                 <span className="text-sm text-zinc-500">
                   {visit.visited_on} · {visit.rating_overall}/5
                 </span>
-              </Link>
+              </a>
             </li>
           );
         })}

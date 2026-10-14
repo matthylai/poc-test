@@ -3,9 +3,11 @@ import { LoginButton } from "./login-button";
 export default async function LoginPage({
   searchParams,
 }: {
-  searchParams: Promise<{ error?: string }>;
+  searchParams: Promise<{ error?: string; next?: string }>;
 }) {
   const params = await searchParams;
+  const nextPath =
+    params.next?.startsWith("/") && !params.next.startsWith("//") ? params.next : "/";
 
   return (
     <main className="mx-auto flex w-full max-w-md flex-col gap-6 px-6 py-16">
@@ -18,7 +20,7 @@ export default async function LoginPage({
       {params.error === "auth" ? (
         <p className="text-sm text-red-700">Sign-in did not complete.</p>
       ) : null}
-      <LoginButton />
+      <LoginButton nextPath={nextPath} />
     </main>
   );
 }

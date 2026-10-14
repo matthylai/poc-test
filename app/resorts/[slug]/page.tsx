@@ -79,7 +79,10 @@ export default async function ResortPage({
             Choose a username to log a visit
           </Link>
         ) : (
-          <Link href="/login" className="text-sm underline">
+          <Link
+            href={`/login?next=/resorts/${resort.slug}`}
+            className="text-sm underline"
+          >
             Sign in to log a visit
           </Link>
         )}
